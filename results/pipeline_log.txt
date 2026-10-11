@@ -1,0 +1,203 @@
+
+=== step 3: scripts/03_visualize_features.py ===
+-> fig_dataset_grid
+-> fig_class_distribution
+-> fig_feature_overview
+-> fig_sift_keypoints
+-> fig_hog
+-> fig_color_hist_comparison
+-> fig_gist
+-> fig_mean_saturation
+-> fig_hu_haralick
+-> fig_feature_costs
+-> fig_pca_and_embedding
+figures saved to D:\B.Tech\3rd year\ML\Mini Project\figures\features
+
+=== step 4: scripts/04_feature_combination_search.py ===
+[ 1/63] svm GIST                                                    cv=0.500 val=0.510 train=0.993 (14s)
+[ 1/63] lr  GIST                                                    cv=0.459 val=0.447 train=0.562 (2s)
+[ 2/63] svm Hu Moments                                              cv=0.174 val=0.166 train=0.254 (6s)
+[ 2/63] lr  Hu Moments                                              cv=0.168 val=0.186 train=0.184 (0s)
+[ 3/63] svm Color Hist                                              cv=0.495 val=0.505 train=0.837 (8s)
+[ 3/63] lr  Color Hist                                              cv=0.464 val=0.491 train=0.525 (2s)
+[ 4/63] svm SIFT (BoVW)                                             cv=0.393 val=0.374 train=0.700 (8s)
+[ 4/63] lr  SIFT (BoVW)                                             cv=0.356 val=0.312 train=0.454 (2s)
+[ 5/63] svm HOG                                                     cv=0.398 val=0.429 train=0.886 (12s)
+[ 5/63] lr  HOG                                                     cv=0.372 val=0.369 train=0.470 (2s)
+[ 6/63] svm Haralick                                                cv=0.455 val=0.476 train=0.527 (5s)
+[ 6/63] lr  Haralick                                                cv=0.396 val=0.443 train=0.406 (2s)
+[ 7/63] svm GIST + Hu Moments                                       cv=0.516 val=0.540 train=0.998 (9s)
+[ 7/63] lr  GIST + Hu Moments                                       cv=0.487 val=0.462 train=0.580 (2s)
+[ 8/63] svm GIST + Color Hist                                       cv=0.598 val=0.586 train=0.998 (9s)
+[ 8/63] lr  GIST + Color Hist                                       cv=0.582 val=0.567 train=0.668 (3s)
+[ 9/63] svm GIST + SIFT (BoVW)                                      cv=0.558 val=0.572 train=1.000 (9s)
+[ 9/63] lr  GIST + SIFT (BoVW)                                      cv=0.532 val=0.521 train=0.628 (2s)
+[10/63] svm GIST + HOG                                              cv=0.483 val=0.498 train=0.960 (14s)
+[10/63] lr  GIST + HOG                                              cv=0.453 val=0.445 train=0.550 (3s)
+[11/63] svm GIST + Haralick                                         cv=0.544 val=0.569 train=0.997 (10s)
+[11/63] lr  GIST + Haralick                                         cv=0.513 val=0.516 train=0.608 (2s)
+[12/63] svm Hu Moments + Color Hist                                 cv=0.482 val=0.516 train=0.789 (8s)
+[12/63] lr  Hu Moments + Color Hist                                 cv=0.470 val=0.498 train=0.544 (2s)
+[13/63] svm Hu Moments + SIFT (BoVW)                                cv=0.390 val=0.390 train=0.625 (8s)
+[13/63] lr  Hu Moments + SIFT (BoVW)                                cv=0.372 val=0.350 train=0.477 (1s)
+[14/63] svm Hu Moments + HOG                                        cv=0.392 val=0.436 train=0.893 (12s)
+[14/63] lr  Hu Moments + HOG                                        cv=0.368 val=0.359 train=0.440 (2s)
+[15/63] svm Hu Moments + Haralick                                   cv=0.407 val=0.460 train=0.484 (5s)
+[15/63] lr  Hu Moments + Haralick                                   cv=0.419 val=0.448 train=0.435 (2s)
+[16/63] svm Color Hist + SIFT (BoVW)                                cv=0.558 val=0.566 train=0.745 (8s)
+[16/63] lr  Color Hist + SIFT (BoVW)                                cv=0.536 val=0.517 train=0.623 (2s)
+[17/63] svm Color Hist + HOG                                        cv=0.405 val=0.438 train=0.891 (12s)
+[17/63] lr  Color Hist + HOG                                        cv=0.377 val=0.393 train=0.476 (3s)
+[18/63] svm Color Hist + Haralick                                   cv=0.578 val=0.621 train=0.802 (7s)
+[18/63] lr  Color Hist + Haralick                                   cv=0.554 val=0.567 train=0.632 (2s)
+[19/63] svm SIFT (BoVW) + HOG                                       cv=0.416 val=0.448 train=0.902 (12s)
+[19/63] lr  SIFT (BoVW) + HOG                                       cv=0.384 val=0.381 train=0.488 (2s)
+[20/63] svm SIFT (BoVW) + Haralick                                  cv=0.479 val=0.505 train=1.000 (8s)
+[20/63] lr  SIFT (BoVW) + Haralick                                  cv=0.442 val=0.429 train=0.552 (1s)
+[21/63] svm HOG + Haralick                                          cv=0.404 val=0.433 train=0.889 (12s)
+[21/63] lr  HOG + Haralick                                          cv=0.377 val=0.374 train=0.474 (4s)
+[22/63] svm GIST + Hu Moments + Color Hist                          cv=0.593 val=0.586 train=0.999 (11s)
+[22/63] lr  GIST + Hu Moments + Color Hist                          cv=0.580 val=0.576 train=0.686 (6s)
+[23/63] svm GIST + Hu Moments + SIFT (BoVW)                         cv=0.556 val=0.572 train=1.000 (9s)
+[23/63] lr  GIST + Hu Moments + SIFT (BoVW)                         cv=0.537 val=0.529 train=0.637 (2s)
+[24/63] svm GIST + Hu Moments + HOG                                 cv=0.483 val=0.517 train=0.961 (13s)
+[24/63] lr  GIST + Hu Moments + HOG                                 cv=0.443 val=0.441 train=0.550 (3s)
+[25/63] svm GIST + Hu Moments + Haralick                            cv=0.541 val=0.567 train=1.000 (10s)
+[25/63] lr  GIST + Hu Moments + Haralick                            cv=0.510 val=0.521 train=0.603 (2s)
+[26/63] svm GIST + Color Hist + SIFT (BoVW)                         cv=0.621 val=0.624 train=1.000 (10s)
+[26/63] lr  GIST + Color Hist + SIFT (BoVW)                         cv=0.615 val=0.595 train=0.712 (3s)
+[27/63] svm GIST + Color Hist + HOG                                 cv=0.490 val=0.498 train=0.961 (14s)
+[27/63] lr  GIST + Color Hist + HOG                                 cv=0.455 val=0.445 train=0.554 (3s)
+[28/63] svm GIST + Color Hist + Haralick                            cv=0.615 val=0.622 train=0.999 (9s)
+[28/63] lr  GIST + Color Hist + Haralick                            cv=0.604 val=0.614 train=0.694 (2s)
+[29/63] svm GIST + SIFT (BoVW) + HOG                                cv=0.497 val=0.517 train=0.963 (14s)
+[29/63] lr  GIST + SIFT (BoVW) + HOG                                cv=0.463 val=0.452 train=0.565 (3s)
+[30/63] svm GIST + SIFT (BoVW) + Haralick                           cv=0.580 val=0.588 train=1.000 (9s)
+[30/63] lr  GIST + SIFT (BoVW) + Haralick                           cv=0.554 val=0.550 train=0.646 (2s)
+[31/63] svm GIST + HOG + Haralick                                   cv=0.488 val=0.510 train=0.962 (13s)
+[31/63] lr  GIST + HOG + Haralick                                   cv=0.453 val=0.441 train=0.553 (3s)
+[32/63] svm Hu Moments + Color Hist + SIFT (BoVW)                   cv=0.560 val=0.566 train=0.787 (8s)
+[32/63] lr  Hu Moments + Color Hist + SIFT (BoVW)                   cv=0.543 val=0.526 train=0.612 (2s)
+[33/63] svm Hu Moments + Color Hist + HOG                           cv=0.400 val=0.453 train=0.895 (13s)
+[33/63] lr  Hu Moments + Color Hist + HOG                           cv=0.381 val=0.390 train=0.476 (3s)
+[34/63] svm Hu Moments + Color Hist + Haralick                      cv=0.554 val=0.586 train=0.688 (8s)
+[34/63] lr  Hu Moments + Color Hist + Haralick                      cv=0.554 val=0.567 train=0.626 (2s)
+[35/63] svm Hu Moments + SIFT (BoVW) + HOG                          cv=0.412 val=0.466 train=0.906 (13s)
+[35/63] lr  Hu Moments + SIFT (BoVW) + HOG                          cv=0.387 val=0.390 train=0.491 (2s)
+[36/63] svm Hu Moments + SIFT (BoVW) + Haralick                     cv=0.473 val=0.486 train=0.721 (8s)
+[36/63] lr  Hu Moments + SIFT (BoVW) + Haralick                     cv=0.450 val=0.419 train=0.526 (1s)
+[37/63] svm Hu Moments + HOG + Haralick                             cv=0.404 val=0.436 train=0.896 (12s)
+[37/63] lr  Hu Moments + HOG + Haralick                             cv=0.377 val=0.369 train=0.445 (2s)
+[38/63] svm Color Hist + SIFT (BoVW) + HOG                          cv=0.424 val=0.455 train=0.906 (12s)
+[38/63] lr  Color Hist + SIFT (BoVW) + HOG                          cv=0.396 val=0.409 train=0.500 (3s)
+[39/63] svm Color Hist + SIFT (BoVW) + Haralick                     cv=0.599 val=0.614 train=0.789 (8s)
+[39/63] lr  Color Hist + SIFT (BoVW) + Haralick                     cv=0.578 val=0.566 train=0.644 (2s)
+[40/63] svm Color Hist + HOG + Haralick                             cv=0.409 val=0.429 train=0.893 (12s)
+[40/63] lr  Color Hist + HOG + Haralick                             cv=0.382 val=0.402 train=0.486 (3s)
+[41/63] svm SIFT (BoVW) + HOG + Haralick                            cv=0.431 val=0.459 train=0.908 (12s)
+[41/63] lr  SIFT (BoVW) + HOG + Haralick                            cv=0.400 val=0.405 train=0.507 (2s)
+[42/63] svm GIST + Hu Moments + Color Hist + SIFT (BoVW)            cv=0.622 val=0.624 train=1.000 (10s)
+[42/63] lr  GIST + Hu Moments + Color Hist + SIFT (BoVW)            cv=0.613 val=0.600 train=0.712 (2s)
+[43/63] svm GIST + Hu Moments + Color Hist + HOG                    cv=0.488 val=0.514 train=0.961 (13s)
+[43/63] lr  GIST + Hu Moments + Color Hist + HOG                    cv=0.457 val=0.457 train=0.555 (3s)
+[44/63] svm GIST + Hu Moments + Color Hist + Haralick               cv=0.607 val=0.617 train=0.999 (10s)
+[44/63] lr  GIST + Hu Moments + Color Hist + Haralick               cv=0.596 val=0.600 train=0.685 (2s)
+[45/63] svm GIST + Hu Moments + SIFT (BoVW) + HOG                   cv=0.500 val=0.541 train=0.962 (13s)
+[45/63] lr  GIST + Hu Moments + SIFT (BoVW) + HOG                   cv=0.470 val=0.466 train=0.572 (3s)
+[46/63] svm GIST + Hu Moments + SIFT (BoVW) + Haralick              cv=0.577 val=0.590 train=1.000 (9s)
+[46/63] lr  GIST + Hu Moments + SIFT (BoVW) + Haralick              cv=0.555 val=0.559 train=0.653 (2s)
+[47/63] svm GIST + Hu Moments + HOG + Haralick                      cv=0.486 val=0.507 train=0.963 (13s)
+[47/63] lr  GIST + Hu Moments + HOG + Haralick                      cv=0.449 val=0.450 train=0.552 (3s)
+[48/63] svm GIST + Color Hist + SIFT (BoVW) + HOG                   cv=0.504 val=0.531 train=1.000 (13s)
+[48/63] lr  GIST + Color Hist + SIFT (BoVW) + HOG                   cv=0.474 val=0.467 train=0.572 (3s)
+[49/63] svm GIST + Color Hist + SIFT (BoVW) + Haralick              cv=0.640 val=0.652 train=1.000 (10s)
+[49/63] lr  GIST + Color Hist + SIFT (BoVW) + Haralick              cv=0.630 val=0.617 train=0.723 (2s)
+[50/63] svm GIST + Color Hist + HOG + Haralick                      cv=0.493 val=0.509 train=0.963 (13s)
+[50/63] lr  GIST + Color Hist + HOG + Haralick                      cv=0.456 val=0.447 train=0.554 (3s)
+[51/63] svm GIST + SIFT (BoVW) + HOG + Haralick                     cv=0.506 val=0.540 train=0.964 (14s)
+[51/63] lr  GIST + SIFT (BoVW) + HOG + Haralick                     cv=0.471 val=0.466 train=0.575 (3s)
+[52/63] svm Hu Moments + Color Hist + SIFT (BoVW) + HOG             cv=0.419 val=0.471 train=0.906 (13s)
+[52/63] lr  Hu Moments + Color Hist + SIFT (BoVW) + HOG             cv=0.395 val=0.393 train=0.504 (3s)
+[53/63] svm Hu Moments + Color Hist + SIFT (BoVW) + Haralick        cv=0.598 val=0.619 train=0.823 (8s)
+[53/63] lr  Hu Moments + Color Hist + SIFT (BoVW) + Haralick        cv=0.580 val=0.576 train=0.649 (2s)
+[54/63] svm Hu Moments + Color Hist + HOG + Haralick                cv=0.417 val=0.443 train=0.904 (14s)
+[54/63] lr  Hu Moments + Color Hist + HOG + Haralick                cv=0.386 val=0.376 train=0.456 (3s)
+[55/63] svm Hu Moments + SIFT (BoVW) + HOG + Haralick               cv=0.426 val=0.476 train=0.907 (12s)
+[55/63] lr  Hu Moments + SIFT (BoVW) + HOG + Haralick               cv=0.406 val=0.402 train=0.503 (2s)
+[56/63] svm Color Hist + SIFT (BoVW) + HOG + Haralick               cv=0.438 val=0.479 train=0.912 (13s)
+[56/63] lr  Color Hist + SIFT (BoVW) + HOG + Haralick               cv=0.413 val=0.421 train=0.514 (3s)
+[57/63] svm GIST + Hu Moments + Color Hist + SIFT (BoVW) + HOG      cv=0.508 val=0.543 train=0.966 (13s)
+[57/63] lr  GIST + Hu Moments + Color Hist + SIFT (BoVW) + HOG      cv=0.478 val=0.481 train=0.580 (4s)
+[58/63] svm GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick cv=0.635 val=0.641 train=1.000 (10s)
+[58/63] lr  GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick cv=0.624 val=0.622 train=0.723 (2s)
+[59/63] svm GIST + Hu Moments + Color Hist + HOG + Haralick         cv=0.496 val=0.526 train=0.962 (13s)
+[59/63] lr  GIST + Hu Moments + Color Hist + HOG + Haralick         cv=0.460 val=0.466 train=0.563 (3s)
+[60/63] svm GIST + Hu Moments + SIFT (BoVW) + HOG + Haralick        cv=0.508 val=0.541 train=0.963 (13s)
+[60/63] lr  GIST + Hu Moments + SIFT (BoVW) + HOG + Haralick        cv=0.475 val=0.476 train=0.576 (3s)
+[61/63] svm GIST + Color Hist + SIFT (BoVW) + HOG + Haralick        cv=0.509 val=0.543 train=0.965 (13s)
+[61/63] lr  GIST + Color Hist + SIFT (BoVW) + HOG + Haralick        cv=0.478 val=0.479 train=0.580 (3s)
+[62/63] svm Hu Moments + Color Hist + SIFT (BoVW) + HOG + Haralick  cv=0.439 val=0.464 train=0.911 (13s)
+[62/63] lr  Hu Moments + Color Hist + SIFT (BoVW) + HOG + Haralick  cv=0.412 val=0.417 train=0.513 (3s)
+[63/63] svm GIST + Hu Moments + Color Hist + SIFT (BoVW) + HOG + Haralick cv=0.515 val=0.552 train=0.966 (13s)
+[63/63] lr  GIST + Hu Moments + Color Hist + SIFT (BoVW) + HOG + Haralick cv=0.485 val=0.486 train=0.584 (3s)
+
+Top 10 SVM combinations by validation accuracy:
+                                            combo_label   cv_acc  train_acc  val_acc  best_C best_gamma
+             GIST + Color Hist + SIFT (BoVW) + Haralick 0.639656   1.000000 0.651724    10.0        0.1
+GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick 0.635323   1.000000 0.641379    10.0        0.1
+                        GIST + Color Hist + SIFT (BoVW) 0.620806   1.000000 0.624138    10.0        0.1
+           GIST + Hu Moments + Color Hist + SIFT (BoVW) 0.622322   1.000000 0.624138    10.0        0.1
+                           GIST + Color Hist + Haralick 0.615169   0.998700 0.622414    10.0        0.1
+                                  Color Hist + Haralick 0.577682   0.802384 0.620690   100.0        0.1
+       Hu Moments + Color Hist + SIFT (BoVW) + Haralick 0.598269   0.822535 0.618966    10.0        0.1
+              GIST + Hu Moments + Color Hist + Haralick 0.607152   0.999350 0.617241    10.0        0.1
+                    Color Hist + SIFT (BoVW) + Haralick 0.598703   0.789382 0.613793    10.0        0.1
+             GIST + Hu Moments + SIFT (BoVW) + Haralick 0.576603   1.000000 0.589655    10.0        0.1
+
+Top 10 LR combinations by validation accuracy:
+                                            combo_label   cv_acc  train_acc  val_acc  best_C best_gamma
+GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick 0.624487   0.722860 0.622414     1.0           
+             GIST + Color Hist + SIFT (BoVW) + Haralick 0.629905   0.723077 0.617241     1.0           
+                           GIST + Color Hist + Haralick 0.604117   0.694258 0.613793     1.0           
+           GIST + Hu Moments + Color Hist + SIFT (BoVW) 0.612784   0.712026 0.600000     1.0           
+              GIST + Hu Moments + Color Hist + Haralick 0.596099   0.684724 0.600000     1.0           
+                        GIST + Color Hist + SIFT (BoVW) 0.614521   0.712459 0.594828     1.0           
+                         GIST + Hu Moments + Color Hist 0.580280   0.686457 0.575862    10.0           
+       Hu Moments + Color Hist + SIFT (BoVW) + Haralick 0.579851   0.649404 0.575862     1.0           
+                                  Color Hist + Haralick 0.554279   0.632069 0.567241   100.0           
+                     Hu Moments + Color Hist + Haralick 0.553846   0.625785 0.567241    10.0           
+
+=== step 5: scripts/05_train_final_models.py ===
+Full 11x11 grid search: GIST + Color Hist + SIFT (BoVW) + Haralick
+  grid search took 17.0 min
+  best C=100 gamma=0.01 cv=0.661 | train=0.914 val=0.657 test=0.654
+Full 11x11 grid search: GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick
+  grid search took 16.4 min
+  best C=100 gamma=0.01 cv=0.656 | train=0.923 val=0.650 test=0.647
+Full 11x11 grid search: GIST + Color Hist + SIFT (BoVW)
+  grid search took 16.4 min
+  best C=100 gamma=0.01 cv=0.647 | train=0.905 val=0.626 test=0.651
+LR baseline (GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick): train=0.723 test=0.611
+
+Model  Training Accuracy (%)  Validation Accuracy (%)  Test Accuracy (%)  Train Time (s)  Inference Time (ms/img)                                           Features Used     C  gamma
+  LR*                   72.3                     62.2               61.1            0.54                    108.9 GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick   1.0    NaN
+  SVM                   91.4                     65.7               65.4            3.94                    110.0              GIST + Color Hist + SIFT (BoVW) + Haralick 100.0   0.01
+  SVM                   92.3                     65.0               64.7            3.95                    110.1 GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick 100.0   0.01
+  SVM                   90.5                     62.6               65.1            4.00                     97.3                         GIST + Color Hist + SIFT (BoVW) 100.0   0.01
+
+Final SVM: GIST + Color Hist + SIFT (BoVW) + Haralick  test accuracy = 65.4%
+
+=== step 6: scripts/06_plot_results.py ===
+-> fig_top_combinations
+-> fig_single_features
+-> fig_feature_contribution
+-> fig_grid_heatmap
+-> fig_accuracy_comparison
+-> fig_time_vs_error
+-> fig_overfitting
+figures saved to D:\B.Tech\3rd year\ML\Mini Project\figures\models
+
+=== step 7: scripts/07_build_writeup.py ===
+wrote D:\B.Tech\3rd year\ML\Mini Project\report\Section3_Section4.1_writeup.docx
+
+Slides: node slides/build_slides.js

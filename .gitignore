@@ -1,0 +1,10 @@
+# large / regenerable files
+# images come from the team Drive (put the zips in data/zips/), features are rebuilt by step 2
+data/zips/
+data/images/
+data/features/
+data/splits.csv
+node_modules/
+__pycache__/
+*.pyc
+*.pptx

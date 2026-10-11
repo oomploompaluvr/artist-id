@@ -1,0 +1,45 @@
+{
+  "n_images": 5779,
+  "split": {
+    "train": 4615,
+    "test": 584,
+    "val": 580
+  },
+  "per_artist_min": 367,
+  "per_artist_max": 412,
+  "delta_pp": {
+    "GIST": 8.6,
+    "Color Hist": 5.7,
+    "Haralick": 3.6,
+    "SIFT (BoVW)": 3.6,
+    "Hu Moments": 0.5,
+    "HOG": -5.6
+  },
+  "confused_pairs": [
+    [
+      "Saryan",
+      "Picasso",
+      9
+    ],
+    [
+      "Chagall",
+      "Picasso",
+      9
+    ]
+  ],
+  "best_f1": [
+    [
+      "Piranesi",
+      0.9
+    ],
+    [
+      "Dore",
+      0.86
+    ]
+  ],
+  "worst_f1": [
+    "Sargent",
+    0.48
+  ],
+  "pca_variance": 0.858
+}

@@ -1,0 +1,82 @@
+{
+  "svm": {
+    "name": "SVM",
+    "combo": "gist+color_hist+sift+haralick",
+    "features": "GIST + Color Hist + SIFT (BoVW) + Haralick",
+    "train_acc": 0.9135427952329361,
+    "val_acc": 0.656896551724138,
+    "test_acc": 0.6541095890410958,
+    "train_time_s": 3.9379451000004337,
+    "model_ms_per_image": 1.2257941780792128,
+    "feature_ms_per_image": 108.74890357150606,
+    "C": 100.0,
+    "gamma": 0.01,
+    "cv_acc": 0.6611043092004926,
+    "total_inference_ms": 109.97469774958527,
+    "macro_f1": 0.6498947392826149
+  },
+  "lr": {
+    "name": "LR",
+    "combo": "gist+hu+color_hist+sift+haralick",
+    "features": "GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick",
+    "train_acc": 0.7228602383531961,
+    "val_acc": 0.6224137931034482,
+    "test_acc": 0.6113013698630136,
+    "train_time_s": 0.5374897000001511,
+    "model_ms_per_image": 0.006473287671786687,
+    "feature_ms_per_image": 108.90297857150428,
+    "C": 1.0,
+    "gamma": null,
+    "cv_acc": 0.6244869345577336,
+    "total_inference_ms": 108.90945185917606,
+    "macro_f1": 0.6049096687954164
+  },
+  "svm_candidates": [
+    {
+      "name": "SVM",
+      "combo": "gist+color_hist+sift+haralick",
+      "features": "GIST + Color Hist + SIFT (BoVW) + Haralick",
+      "train_acc": 0.9135427952329361,
+      "val_acc": 0.656896551724138,
+      "test_acc": 0.6541095890410958,
+      "train_time_s": 3.9379451000004337,
+      "model_ms_per_image": 1.2257941780792128,
+      "feature_ms_per_image": 108.74890357150606,
+      "C": 100.0,
+      "gamma": 0.01,
+      "cv_acc": 0.6611043092004926,
+      "total_inference_ms": 109.97469774958527,
+      "macro_f1": 0.6498947392826149
+    },
+    {
+      "name": "SVM",
+      "combo": "gist+hu+color_hist+sift+haralick",
+      "features": "GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick",
+      "train_acc": 0.9232936078006501,
+      "val_acc": 0.65,
+      "test_acc": 0.6472602739726028,
+      "train_time_s": 3.948343500000192,
+      "model_ms_per_image": 1.2387395547928661,
+      "feature_ms_per_image": 108.90297857150428,
+      "C": 100.0,
+      "gamma": 0.01,
+      "cv_acc": 0.6556888335723156,
+      "total_inference_ms": 110.14171812629715
+    },
+    {
+      "name": "SVM",
+      "combo": "gist+color_hist+sift",
+      "features": "GIST + Color Hist + SIFT (BoVW)",
+      "train_acc": 0.9050920910075839,
+      "val_acc": 0.6258620689655172,
+      "test_acc": 0.6506849315068494,
+      "train_time_s": 4.000705800001015,
+      "model_ms_per_image": 1.0756833904103076,
+      "feature_ms_per_image": 96.1871976191365,
+      "C": 100.0,
+      "gamma": 0.01,
+      "cv_acc": 0.6470205519095624,
+      "total_inference_ms": 97.2628810095468
+    }
+  ]
+}

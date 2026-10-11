@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+opencv-contrib-python
+mahotas
+scikit-image
+scikit-learn
+matplotlib
+joblib
+tqdm
+pillow
+python-docx
+latex2mathml
+lxml

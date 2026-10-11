@@ -1,0 +1,5 @@
+Model,Training Accuracy (%),Validation Accuracy (%),Test Accuracy (%),Train Time (s),Inference Time (ms/img),Features Used,C,gamma
+LR*,72.3,62.2,61.1,0.54,108.9,GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick,1.0,
+SVM,91.4,65.7,65.4,3.94,110.0,GIST + Color Hist + SIFT (BoVW) + Haralick,100.0,0.01
+SVM,92.3,65.0,64.7,3.95,110.1,GIST + Hu Moments + Color Hist + SIFT (BoVW) + Haralick,100.0,0.01
+SVM,90.5,62.6,65.1,4.0,97.3,GIST + Color Hist + SIFT (BoVW),100.0,0.01
