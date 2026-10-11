@@ -6,7 +6,7 @@ and put them in `data/zips/`. The train/val/test split and label map are in `dat
 
 ---
 
-## Classical ML & Feature Engineering (Person 1)
+## Classical ML & Feature Engineering
 
 Reproduction of the **feature-extraction + SVM** half of *"Comparison of Machine Learning
 Techniques for Artist Identification"* (Chen & Deng, Stanford CS229).
