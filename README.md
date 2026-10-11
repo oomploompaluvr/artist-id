@@ -19,7 +19,7 @@ Techniques for Artist Identification"* (Chen & Deng, Stanford CS229).
 | Multi-class (one-vs-rest) RBF SVM, scikit-learn | `artist_id/models.py` |
 | 3-fold CV grid search over C and γ | `scripts/04_feature_combination_search.py`, `scripts/05_train_final_models.py` |
 | Write-up Section 3 + Section 4.1 | `scripts/07_build_writeup.py` (generates Section 3 + 4.1 as .docx/.md) |
-| Feature plots + classical-model evaluation slides | `figures/`, `slides/build_slides.js` (builds the .pptx) |
+| Feature plots + classical-model evaluation figures | `figures/` |
 
 ### Results
 
@@ -70,18 +70,15 @@ painting (256x256) ─► 6 descriptors ─► concatenate (63 combos) ─► Mi
 6. **`06_plot_results.py`** writes the evaluation figures to `figures/models/`.
 7. **`07_build_writeup.py`** writes Section 3 + 4.1 with every number taken from `results/`.
 
-`node slides/build_slides.js` builds the slide deck from the same figures and results.
-
 ### How to run
 
 ```bash
 pip install -r requirements.txt
 python run_all.py          # or: python run_all.py 4 5 6 7
-cd slides && npm install && cd .. && node slides/build_slides.js
 ```
 
 Each step caches its output. Run-time on an 8-core laptop CPU (i5-12450H): data prep ≈ 2 min,
-features ≈ 7 min, screening ≈ 25 min, full grid search ≈ 1 h 40 min (3 × ~33 min).
+features ≈ 7 min, screening ≈ 25 min, full grid search ≈ 50 min (3 × ~17 min).
 
 ### Implementation notes
 
