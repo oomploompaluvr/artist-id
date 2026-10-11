@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/14f4SQF5noo2BsbjKi2T7D3VcDROGYDaH
+contains actual images of the paintings made by the artists and also the .csv data split 
+database reference 
