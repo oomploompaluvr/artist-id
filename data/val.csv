@@ -1,0 +1,581 @@
+artist,date,genre,pixelsx,pixelsy,size_bytes,source,style,title,artist_group,in_train,new_filename,image_path,label
+Zdislav Beksinski,,symbolic painting,1779.0,1486.0,641535.0,wikiart,Surrealism,Untitled,train_and_test,True,80003.jpg,Zdislav Beksinski/80003.jpg,14
+John Singer Sargent,,sketch and study,800.0,917.0,165224.0,wikiart,Realism,Male Nudes Wrestling,train_and_test,True,57954.jpg,John Singer Sargent/57954.jpg,7
+Giovanni Battista Piranesi,,capriccio,1435.0,1500.0,694518.0,wikiart,Neoclassicism,Perspective of the rear,train_and_test,True,38599.jpg,Giovanni Battista Piranesi/38599.jpg,2
+Ilya Repin,1896.0,nude painting (nu),493.0,1000.0,97608.0,wikiart,Realism,Nude Model (from behind),train_and_test,True,53782.jpg,Ilya Repin/53782.jpg,4
+Paul Cezanne,c.1879,landscape,1221.0,1020.0,347734.0,wikiart,Impressionism,Landscape with Waterline ,train_and_test,True,103212.jpg,Paul Cezanne/103212.jpg,11
+John Singer Sargent,1918,genre painting,1142.0,748.0,200132.0,wikiart,Impressionism,Crashed Aeroplane,train_and_test,True,2819.jpg,John Singer Sargent/2819.jpg,7
+Rembrandt,1629,religious painting,1000.0,767.0,811681.0,wikiart,Baroque,Repentant Judas Returning The Pieces Of Silver,train_and_test,True,95201.jpg,Rembrandt/95201.jpg,13
+Paul Cezanne,1868,landscape,2536.0,3261.0,1054598.0,wikiart,Romanticism,Rock in the Forest of Fontainbleau,train_and_test,True,81256.jpg,Paul Cezanne/81256.jpg,11
+Ilya Repin,1903.0,portrait,982.0,1000.0,187366.0,wikiart,Realism,Portrait of Sergey Vitte,train_and_test,True,60557.jpg,Ilya Repin/60557.jpg,4
+Ivan Shishkin,1895.0,landscape,681.0,1000.0,199759.0,wikiart,Realism,The sun in the forest,train_and_test,True,48765.jpg,Ivan Shishkin/48765.jpg,6
+Rembrandt,c.1634,portrait,791.0,1000.0,1032104.0,wikiart,Baroque,Flora,train_and_test,True,96953.jpg,Rembrandt/96953.jpg,13
+Ilya Repin,1885.0,history painting,1000.0,775.0,137935.0,wikipedia,Realism,"Ivan the Terrible and His Son Ivan on November 16, 1581",train_and_test,True,40727.jpg,Ilya Repin/40727.jpg,4
+Gustave Dore,,religious painting,1493.0,1892.0,406414.0,wikiart,Romanticism,St. Peter Delivered From Prison,train_and_test,True,13060.jpg,Gustave Dore/13060.jpg,3
+Ilya Repin,1903.0,portrait,763.0,1000.0,150360.0,wikiart,Realism,"Portrait of Minister of Ways of Communication and member of State Council, Prince Mikhail Ivanovich Khilkov. Study.",train_and_test,True,82158.jpg,Ilya Repin/82158.jpg,4
+Pablo Picasso,1946,mythological painting,774.0,1170.0,266491.0,wikiart,Surrealism,Ulysses and sirens,train_and_test,True,62896.jpg,Pablo Picasso/62896.jpg,10
+Giovanni Battista Piranesi,,sketch and study,1173.0,1500.0,464916.0,wikiart,Neoclassicism,Pan and Syrinx,train_and_test,True,86511.jpg,Giovanni Battista Piranesi/86511.jpg,2
+Ivan Aivazovsky,1838,marina,1045.0,748.0,101369.0,wikiart,Romanticism,Frigate under sails,train_and_test,True,65360.jpg,Ivan Aivazovsky/65360.jpg,5
+Paul Cezanne,1890,genre painting,1576.0,2351.0,455078.0,wikiart,Post-Impressionism,Harlequin ,train_and_test,True,84258.jpg,Paul Cezanne/84258.jpg,11
+Giovanni Battista Piranesi,,still life,1500.0,1253.0,492513.0,wikiart,Neoclassicism,Kitchen utensils,train_and_test,True,52563.jpg,Giovanni Battista Piranesi/52563.jpg,2
+Pablo Picasso,1907,portrait,805.0,1251.0,109714.0,wikiart,Cubism,Woman with a Fan ,train_and_test,True,19261.jpg,Pablo Picasso/19261.jpg,10
+Rembrandt,1639,religious painting,989.0,1280.0,585752.0,wikipedia,Baroque,Death of the Virgin,train_and_test,True,70083.jpg,Rembrandt/70083.jpg,13
+Giovanni Battista Piranesi,,cityscape,3887.0,2564.0,3294476.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,89965.jpg,Giovanni Battista Piranesi/89965.jpg,2
+Albrecht Durer,1499,genre painting,750.0,1201.0,188572.0,wikipedia,Northern Renaissance,Sylvan Men with Heraldic Shields,train_and_test,True,17446.jpg,Albrecht Durer/17446.jpg,0
+Zdislav Beksinski,,symbolic painting,562.0,700.0,61908.0,wikiart,Surrealism,Untitled,train_and_test,True,97085.jpg,Zdislav Beksinski/97085.jpg,14
+Camille Pissarro,1876,genre painting,1280.0,874.0,355849.0,wikiart,Impressionism,Fishermen on the Banks of the Oise,train_and_test,True,5077.jpg,Camille Pissarro/5077.jpg,1
+Gustave Dore,,religious painting,1024.0,1394.0,739917.0,wikiart,Romanticism,The Rebuilding of the Temple Is Begun,train_and_test,True,94916.jpg,Gustave Dore/94916.jpg,3
+Camille Pissarro,1892,landscape,1237.0,1024.0,351868.0,wikiart,Impressionism,"Landscape, Frost and Fog, Eragny",train_and_test,True,89862.jpg,Camille Pissarro/89862.jpg,1
+Camille Pissarro,,genre painting,1256.0,997.0,254238.0,wikiart,Impressionism,Summer Fishing,train_and_test,True,45635.jpg,Camille Pissarro/45635.jpg,1
+Ivan Shishkin,,cityscape,1000.0,967.0,236881.0,wikiart,Realism,City roofs in winter,train_and_test,True,100737.jpg,Ivan Shishkin/100737.jpg,6
+Albrecht Durer,1499,portrait,1257.0,770.0,176911.0,wikiart,Northern Renaissance,Portrait of Oswolt Krel,train_and_test,True,30059.jpg,Albrecht Durer/30059.jpg,0
+Gustave Dore,1866,religious painting,4915.0,6068.0,29811319.0,wikiart,Romanticism,Death of Eleazer,train_and_test,True,7486.jpg,Gustave Dore/7486.jpg,3
+Giovanni Battista Piranesi,,cityscape,3918.0,2619.0,3016256.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,77755.jpg,Giovanni Battista Piranesi/77755.jpg,2
+Giovanni Battista Piranesi,,design,1121.0,1500.0,416063.0,wikiart,Neoclassicism,Tripod marble bas-relief of the Capitoline Museum and the Villa Lante on the Janiculum,train_and_test,True,15326.jpg,Giovanni Battista Piranesi/15326.jpg,2
+Zdislav Beksinski,,symbolic painting,483.0,600.0,54184.0,wikiart,Surrealism,Untitled,train_and_test,True,8893.jpg,Zdislav Beksinski/8893.jpg,14
+Giovanni Battista Piranesi,,capriccio,3936.0,2738.0,3731908.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,32755.jpg,Giovanni Battista Piranesi/32755.jpg,2
+Marc Chagall,1915,portrait,615.0,800.0,116796.0,wikiart,Cubism,Red Jew,train_and_test,True,78935.jpg,Marc Chagall/78935.jpg,8
+Ivan Shishkin,1867.0,landscape,1000.0,887.0,299582.0,wikiart,Realism,Pines. Summer Landscape,train_and_test,True,17581.jpg,Ivan Shishkin/17581.jpg,6
+Ivan Shishkin,1885.0,sketch and study,1000.0,655.0,199033.0,wikiart,Realism,Oak Grove of Peter the Great on the coast of the Gulf in Sestroretsk,train_and_test,True,88533.jpg,Ivan Shishkin/88533.jpg,6
+Paul Cezanne,1902,landscape,1232.0,960.0,86204.0,wikiart,Post-Impressionism,Mont Sainte-Victoire,train_and_test,True,77688.jpg,Paul Cezanne/77688.jpg,11
+Zdislav Beksinski,,symbolic painting,736.0,1040.0,189601.0,wikiart,Surrealism,Untitled,train_and_test,True,95654.jpg,Zdislav Beksinski/95654.jpg,14
+Pablo Picasso,1932,genre painting,1088.0,801.0,488544.0,wikiart,Surrealism,Beach game and rescue,train_and_test,True,96423.jpg,Pablo Picasso/96423.jpg,10
+Rembrandt,1648,religious painting,1024.0,959.0,156748.0,wikiart,Baroque,The Supper at Emmaus,train_and_test,True,71163.jpg,Rembrandt/71163.jpg,13
+Ivan Aivazovsky,1839,marina,1040.0,702.0,36089.0,wikiart,Romanticism,The gale on sea is over,train_and_test,True,26687.jpg,Ivan Aivazovsky/26687.jpg,5
+Albrecht Durer,,sketch and study,1576.0,2096.0,436518.0,wikiart,Northern Renaissance,"Studies on a great ""picture of the Virgin""   Madonna and Child, saints and angels playing",train_and_test,True,50473.jpg,Albrecht Durer/50473.jpg,0
+Zdislav Beksinski,,symbolic painting,833.0,1040.0,236852.0,wikiart,Surrealism,Untitled,train_and_test,True,5210.jpg,Zdislav Beksinski/5210.jpg,14
+Zdislav Beksinski,,symbolic painting,837.0,1040.0,247330.0,wikiart,Surrealism,Untitled,train_and_test,True,11809.jpg,Zdislav Beksinski/11809.jpg,14
+Albrecht Durer,1521,animal painting,2560.0,1736.0,587769.0,wikiart,Northern Renaissance,Head of a walrus,train_and_test,True,83313.jpg,Albrecht Durer/83313.jpg,0
+Pierre-Auguste Renoir,,flower painting,1062.0,1125.0,416865.0,wikiart,Impressionism,Vase of Anemones,train_and_test,True,82134.jpg,Pierre-Auguste Renoir/82134.jpg,12
+Ivan Shishkin,1859.0,sketch and study,763.0,1000.0,139756.0,wikiart,Realism,Rocks on the island of Valaam. Kukko,train_and_test,True,66797.jpg,Ivan Shishkin/66797.jpg,6
+Paul Cezanne,c.1894,still life,1280.0,982.0,315710.0,wikiart,Post-Impressionism,Dish of Peaches,train_and_test,True,16148.jpg,Paul Cezanne/16148.jpg,11
+Ivan Shishkin,1861.0,sketch and study,1000.0,582.0,105233.0,wikiart,Realism,View of the Yelabuga,train_and_test,True,67778.jpg,Ivan Shishkin/67778.jpg,6
+Ilya Repin,1913.0,portrait,690.0,1000.0,167793.0,wikiart,Realism,Portrait of Vladimir Bekhterev,train_and_test,True,52607.jpg,Ilya Repin/52607.jpg,4
+Ilya Repin,1885.0,portrait,823.0,1000.0,283258.0,wikiart,Realism,Head of a Man,train_and_test,True,13287.jpg,Ilya Repin/13287.jpg,4
+Ivan Aivazovsky,1866,marina,1000.0,746.0,171602.0,wikiart,Romanticism,Sunset,train_and_test,True,96615.jpg,Ivan Aivazovsky/96615.jpg,5
+Ilya Repin,1892.0,portrait,678.0,1000.0,181817.0,wikiart,Realism,Portrait of Sidor Shavrov,train_and_test,True,101582.jpg,Ilya Repin/101582.jpg,4
+Martiros Saryan,1905,landscape,957.0,1000.0,315689.0,wikiart,Symbolism,Blossoming mountains,train_and_test,True,83989.jpg,Martiros Saryan/83989.jpg,9
+Ivan Aivazovsky,1839,landscape,1026.0,755.0,167103.0,wikiart,Romanticism,The Old Feodosia,train_and_test,True,35734.jpg,Ivan Aivazovsky/35734.jpg,5
+Giovanni Battista Piranesi,1756.0,capriccio,1500.0,1159.0,496673.0,wikiart,Neoclassicism,"The Roman antiquities, t. 1, Plate XXXIV",train_and_test,True,86355.jpg,Giovanni Battista Piranesi/86355.jpg,2
+Zdislav Beksinski,,symbolic painting,600.0,479.0,30692.0,wikiart,Surrealism,Untitled,train_and_test,True,29759.jpg,Zdislav Beksinski/29759.jpg,14
+Pierre-Auguste Renoir,1901,flower painting,863.0,1074.0,256131.0,wikiart,Impressionism,Flowers in a Vase,train_and_test,True,81223.jpg,Pierre-Auguste Renoir/81223.jpg,12
+Giovanni Battista Piranesi,,design,1500.0,1368.0,754344.0,wikiart,Neoclassicism,"The Roman antiquities, t. 2, Plate XLVI. Fragments of the burial chamber opposite the Church of St. Sebastian outside the walls (figures carved from Barbault).",train_and_test,True,62206.jpg,Giovanni Battista Piranesi/62206.jpg,2
+Ivan Shishkin,,portrait,822.0,1000.0,215750.0,wikiart,Realism,Italian boy,train_and_test,True,31867.jpg,Ivan Shishkin/31867.jpg,6
+Albrecht Durer,,genre painting,2284.0,3000.0,789116.0,wikiart,Northern Renaissance,Women only,train_and_test,True,26032.jpg,Albrecht Durer/26032.jpg,0
+Camille Pissarro,1896,cityscape,1280.0,1024.0,381167.0,wikiart,Impressionism,"The Pont Boieldieu, Rouen, Damp Weather",train_and_test,True,35364.jpg,Camille Pissarro/35364.jpg,1
+Zdislav Beksinski,,symbolic painting,465.0,673.0,64982.0,wikiart,Surrealism,Untitled,train_and_test,True,74708.jpg,Zdislav Beksinski/74708.jpg,14
+Pierre-Auguste Renoir,1877,landscape,1274.0,1024.0,357448.0,wikiart,Impressionism,Path Leading through Tall Grass,train_and_test,True,22951.jpg,Pierre-Auguste Renoir/22951.jpg,12
+Pablo Picasso,c.1909,still life,805.0,1038.0,143478.0,wikiart,Analytical Cubism,Bread and dish with fruits on the table,train_and_test,True,83121.jpg,Pablo Picasso/83121.jpg,10
+Camille Pissarro,c.1869,landscape,1254.0,1024.0,367609.0,wikipedia,Realism,Landscape at Louveciennes,train_and_test,True,92784.jpg,Camille Pissarro/92784.jpg,1
+Camille Pissarro,1898,cityscape,1267.0,1024.0,306823.0,wikipedia,Impressionism,Avenue de l'Opera Morning Sunshine,train_and_test,True,68432.jpg,Camille Pissarro/68432.jpg,1
+Camille Pissarro,1900,landscape,1267.0,1024.0,386362.0,wikiart,Impressionism,"Spring Morning, Cloudy, Eragny",train_and_test,True,76567.jpg,Camille Pissarro/76567.jpg,1
+Ivan Aivazovsky,1852,marina,1625.0,1065.0,261308.0,wikiart,Romanticism,Sevastopol,train_and_test,True,56229.jpg,Ivan Aivazovsky/56229.jpg,5
+Gustave Dore,,illustration,975.0,1210.0,357279.0,wikiart,Romanticism,Paradise Lost,train_and_test,True,62562.jpg,Gustave Dore/62562.jpg,3
+Zdislav Beksinski,,symbolic painting,1000.0,790.0,351321.0,wikiart,Surrealism,Untitled,train_and_test,True,77430.jpg,Zdislav Beksinski/77430.jpg,14
+John Singer Sargent,1888,portrait,892.0,1194.0,386369.0,wikiart,Impressionism,Morning Walk,train_and_test,True,42543.jpg,John Singer Sargent/42543.jpg,7
+Gustave Dore,,illustration,2285.0,1787.0,1491723.0,wikiart,Romanticism,"The Inferno, Canto 15",train_and_test,True,93631.jpg,Gustave Dore/93631.jpg,3
+Camille Pissarro,1874,portrait,903.0,1125.0,192699.0,wikiart,Impressionism,Mother Jolly,train_and_test,True,20875.jpg,Camille Pissarro/20875.jpg,1
+Gustave Dore,,illustration,746.0,963.0,259595.0,wikiart,Romanticism,Don Quixote,train_and_test,True,100116.jpg,Gustave Dore/100116.jpg,3
+Pablo Picasso,1900,genre painting,1793.0,1764.0,435016.0,wikiart,Post-Impressionism,Embrace,train_and_test,True,649.jpg,Pablo Picasso/649.jpg,10
+Ivan Shishkin,1886.0,sketch and study,1000.0,696.0,167080.0,wikiart,Realism,Morning in a Pine Forest,train_and_test,True,87356.jpg,Ivan Shishkin/87356.jpg,6
+Paul Cezanne,1896,portrait,2024.0,2611.0,608415.0,wikiart,Post-Impressionism,Young Italian Girl Resting on Her Elbow,train_and_test,True,25218.jpg,Paul Cezanne/25218.jpg,11
+Albrecht Durer,,religious painting,1514.0,3000.0,795611.0,wikiart,Northern Renaissance,St George,train_and_test,True,99762.jpg,Albrecht Durer/99762.jpg,0
+John Singer Sargent,1910,portrait,816.0,1067.0,293859.0,wikiart,Impressionism,Cashmere Shawl,train_and_test,True,65934.jpg,John Singer Sargent/65934.jpg,7
+John Singer Sargent,,cityscape,1001.0,701.0,160049.0,wikiart,Impressionism,Venetian Canal ,train_and_test,True,40415.jpg,John Singer Sargent/40415.jpg,7
+Marc Chagall,1966,sketch and study,1024.0,768.0,534090.0,wikiart,Surrealism,Untitled (Flying fish),train_and_test,True,78660.jpg,Marc Chagall/78660.jpg,8
+Giovanni Battista Piranesi,,genre painting,1247.0,1500.0,411801.0,wikiart,Neoclassicism,"Half figure of a warrior with a chalice in his hands, by Guercino ",train_and_test,True,92883.jpg,Giovanni Battista Piranesi/92883.jpg,2
+Ivan Shishkin,1863.0,sketch and study,616.0,1000.0,196158.0,wikiart,Realism,Forest path,train_and_test,True,41142.jpg,Ivan Shishkin/41142.jpg,6
+Zdislav Beksinski,,symbolic painting,750.0,588.0,83682.0,wikiart,Surrealism,Untitled,train_and_test,True,46922.jpg,Zdislav Beksinski/46922.jpg,14
+Rembrandt,1662,portrait,1282.0,1641.0,321155.0,wikiart,Baroque,Study for one of the syndics of the Cloth Guild,train_and_test,True,45341.jpg,Rembrandt/45341.jpg,13
+Gustave Dore,,illustration,979.0,801.0,257515.0,wikiart,Romanticism,Inferno Canto 5,train_and_test,True,40338.jpg,Gustave Dore/40338.jpg,3
+Rembrandt,1645,sketch and study,1125.0,1280.0,439984.0,wikiart,Baroque,St. Peter in penitence,train_and_test,True,101888.jpg,Rembrandt/101888.jpg,13
+Marc Chagall,1910,portrait,1462.0,1905.0,412506.0,wikiart,Expressionism,Woman with a Bouquet,train_and_test,True,99456.jpg,Marc Chagall/99456.jpg,8
+Ivan Aivazovsky,1873,marina,7444.0,5811.0,3189597.0,wikiart,Romanticism,Storm at sea,train_and_test,True,99442.jpg,Ivan Aivazovsky/99442.jpg,5
+John Singer Sargent,1902,portrait,711.0,1068.0,51857.0,wikiart,Realism,Peter A. B. Widener,train_and_test,True,36771.jpg,John Singer Sargent/36771.jpg,7
+John Singer Sargent,1900,portrait,768.0,974.0,123781.0,wikiart,Realism,Dorothy,train_and_test,True,1075.jpg,John Singer Sargent/1075.jpg,7
+Pierre-Auguste Renoir,1872,cityscape,2536.0,2030.0,525953.0,wikipedia,Impressionism,Pont Neuf,train_and_test,True,25088.jpg,Pierre-Auguste Renoir/25088.jpg,12
+John Singer Sargent,c.1882,portrait,930.0,1209.0,821165.0,wikiart,Realism,Madame Errazuriz (also known as The Lady in Black),train_and_test,True,80371.jpg,John Singer Sargent/80371.jpg,7
+Albrecht Durer,,sketch and study,3000.0,2315.0,811765.0,wikiart,Northern Renaissance,Garment studies,train_and_test,True,48826.jpg,Albrecht Durer/48826.jpg,0
+Pierre-Auguste Renoir,1881,landscape,1257.0,1024.0,431913.0,wikiart,Impressionism,Field of Banana Trees,train_and_test,True,6643.jpg,Pierre-Auguste Renoir/6643.jpg,12
+Rembrandt,,portrait,772.0,1002.0,98812.0,wikiart,Baroque,Portrait of an old Woman,train_and_test,True,61034.jpg,Rembrandt/61034.jpg,13
+Rembrandt,1636,religious painting,1048.0,1280.0,644329.0,wikiart,Baroque,Christ before Pilate,train_and_test,True,49371.jpg,Rembrandt/49371.jpg,13
+Zdislav Beksinski,,symbolic painting,534.0,678.0,100230.0,wikiart,Surrealism,Untitled,train_and_test,True,40228.jpg,Zdislav Beksinski/40228.jpg,14
+Zdislav Beksinski,,symbolic painting,777.0,990.0,82370.0,wikiart,Surrealism,Untitled,train_and_test,True,43478.jpg,Zdislav Beksinski/43478.jpg,14
+Giovanni Battista Piranesi,,cityscape,3893.0,2979.0,3730701.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,23452.jpg,Giovanni Battista Piranesi/23452.jpg,2
+Ivan Aivazovsky,1851,marina,1000.0,635.0,292070.0,wikiart,Romanticism,The Tempest ,train_and_test,True,6839.jpg,Ivan Aivazovsky/6839.jpg,5
+Martiros Saryan,1960,landscape,1384.0,1000.0,373133.0,wikiart,Expressionism,Scene from the Train Window,train_and_test,True,79309.jpg,Martiros Saryan/79309.jpg,9
+Pablo Picasso,1957,genre painting,842.0,1088.0,623266.0,wikiart,Cubism,Las Meninas (Velazquez),train_and_test,True,57387.jpg,Pablo Picasso/57387.jpg,10
+Paul Cezanne,,cityscape,1216.0,1008.0,110560.0,wikiart,Post-Impressionism,The roofs,train_and_test,True,82045.jpg,Paul Cezanne/82045.jpg,11
+Marc Chagall,1968,genre painting,694.0,700.0,90562.0,wikiart,Surrealism,The Sun of Poros,train_and_test,True,54015.jpg,Marc Chagall/54015.jpg,8
+Ivan Aivazovsky,1849,marina,1010.0,840.0,63269.0,wikiart,Romanticism,Tempest on the sea at nidht,train_and_test,True,49088.jpg,Ivan Aivazovsky/49088.jpg,5
+Marc Chagall,c.1965,sketch and study,758.0,520.0,93062.0,wikiart,Surrealism,"Study to ""Song of Songs V""",train_and_test,True,70634.jpg,Marc Chagall/70634.jpg,8
+Giovanni Battista Piranesi,,cityscape,1500.0,1131.0,492857.0,wikiart,Neoclassicism,Prospect of a royal courtyard with a loggia in the middle,train_and_test,True,3329.jpg,Giovanni Battista Piranesi/3329.jpg,2
+Zdislav Beksinski,,symbolic painting,1015.0,1040.0,523232.0,wikiart,Surrealism,Untitled,train_and_test,True,94893.jpg,Zdislav Beksinski/94893.jpg,14
+John Singer Sargent,1909,landscape,1101.0,774.0,155547.0,wikiart,Impressionism,Corfu,train_and_test,True,31744.jpg,John Singer Sargent/31744.jpg,7
+Ilya Repin,1870.0,landscape,1000.0,746.0,163453.0,wikiart,Realism,Shiryaev gully on the Volga,train_and_test,True,87977.jpg,Ilya Repin/87977.jpg,4
+John Singer Sargent,1909,cityscape,1139.0,886.0,316020.0,wikiart,Impressionism,"The Rialto, Venice",train_and_test,True,8311.jpg,John Singer Sargent/8311.jpg,7
+Ivan Aivazovsky,1856,cityscape,1720.0,1347.0,343884.0,wikiart,Romanticism,Constantinople,train_and_test,True,82491.jpg,Ivan Aivazovsky/82491.jpg,5
+Giovanni Battista Piranesi,,mythological painting,1500.0,1205.0,375199.0,wikiart,Neoclassicism,Genius of Silene,train_and_test,True,65747.jpg,Giovanni Battista Piranesi/65747.jpg,2
+Paul Cezanne,1885,interior,798.0,1280.0,264177.0,wikiart,Post-Impressionism,Curtains,train_and_test,True,78295.jpg,Paul Cezanne/78295.jpg,11
+John Singer Sargent,c.1909,genre painting,1117.0,802.0,338204.0,wikiart,Impressionism,Boy on a Rock,train_and_test,True,80577.jpg,John Singer Sargent/80577.jpg,7
+Martiros Saryan,1913,flower painting,538.0,638.0,173979.0,wikiart,Fauvism,Still life,train_and_test,True,64743.jpg,Martiros Saryan/64743.jpg,9
+Ilya Repin,1887.0,sketch and study,1000.0,714.0,211616.0,wikiart,Realism,At Dominic's,train_and_test,True,99341.jpg,Ilya Repin/99341.jpg,4
+Martiros Saryan,1947,interior,1231.0,884.0,499885.0,wikiart,Post-Impressionism,Balcony on the Estate of Marshal Ivan Bagramian,train_and_test,True,66617.jpg,Martiros Saryan/66617.jpg,9
+Pablo Picasso,1957,genre painting,1067.0,789.0,194069.0,wikiart,Surrealism,Las Meninas (Velazquez),train_and_test,True,63205.jpg,Pablo Picasso/63205.jpg,10
+Pierre-Auguste Renoir,1876,genre painting,1256.0,1024.0,403194.0,wikiart,Impressionism,Young Woman with a Japanese Umbrella,train_and_test,True,45507.jpg,Pierre-Auguste Renoir/45507.jpg,12
+Camille Pissarro,1884,portrait,836.0,996.0,191996.0,wikiart,Pointillism,Portrait of Nini,train_and_test,True,75126.jpg,Camille Pissarro/75126.jpg,1
+Martiros Saryan,1904,landscape,800.0,573.0,98875.0,wikiart,Expressionism,By the sea,train_and_test,True,70635.jpg,Martiros Saryan/70635.jpg,9
+Gustave Dore,,illustration,773.0,1056.0,347534.0,wikiart,Romanticism,The Emperor Alexius IV Poisoned and Strangled by Mourzoufle,train_and_test,True,25778.jpg,Gustave Dore/25778.jpg,3
+Giovanni Battista Piranesi,,veduta,3873.0,2874.0,3694339.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,33696.jpg,Giovanni Battista Piranesi/33696.jpg,2
+John Singer Sargent,1887,landscape,1004.0,1230.0,357847.0,wikiart,Realism,A Backwater at Wargrave,train_and_test,True,79490.jpg,John Singer Sargent/79490.jpg,7
+Camille Pissarro,,genre painting,1040.0,1256.0,505016.0,wikiart,Impressionism,Forest scene with two figures,train_and_test,True,30508.jpg,Camille Pissarro/30508.jpg,1
+Albrecht Durer,,religious painting,2024.0,2991.0,839895.0,wikiart,Northern Renaissance,St. Barbara,train_and_test,True,88890.jpg,Albrecht Durer/88890.jpg,0
+Marc Chagall,1917,cityscape,1841.0,1458.0,450323.0,wikiart,Cubism,Vitebsk from mount Zadunov,train_and_test,True,30067.jpg,Marc Chagall/30067.jpg,8
+Gustave Dore,,illustration,955.0,1210.0,424168.0,wikiart,Romanticism,Orlando Furioso,train_and_test,True,51558.jpg,Gustave Dore/51558.jpg,3
+Giovanni Battista Piranesi,,veduta,3881.0,2712.0,3960738.0,wikipedia,Neoclassicism,Vedute di Roma,train_and_test,True,58805.jpg,Giovanni Battista Piranesi/58805.jpg,2
+Pierre-Auguste Renoir,1876,flower painting,914.0,1121.0,275006.0,wikiart,Impressionism,Roses in a Vase,train_and_test,True,29839.jpg,Pierre-Auguste Renoir/29839.jpg,12
+Gustave Dore,,religious painting,1024.0,927.0,460787.0,wikiart,Romanticism,Gideon Chooses 300 Soldiers,train_and_test,True,57728.jpg,Gustave Dore/57728.jpg,3
+Martiros Saryan,1907,genre painting,1200.0,808.0,366471.0,wikiart,Expressionism,Near pomegranate tree,train_and_test,True,33078.jpg,Martiros Saryan/33078.jpg,9
+Martiros Saryan,1945,landscape,800.0,653.0,127185.0,wikiart,Symbolism,Ararat and Saint Hripsime Church,train_and_test,True,33496.jpg,Martiros Saryan/33496.jpg,9
+Albrecht Durer,,religious painting,2266.0,3000.0,906068.0,wikiart,Northern Renaissance,Temptation,train_and_test,True,66242.jpg,Albrecht Durer/66242.jpg,0
+Albrecht Durer,,religious painting,861.0,1161.0,219999.0,wikiart,Northern Renaissance,Virgin and Child before an Archway,train_and_test,True,98203.jpg,Albrecht Durer/98203.jpg,0
+Zdislav Beksinski,,symbolic painting,589.0,600.0,63312.0,wikiart,Surrealism,Untitled,train_and_test,True,87966.jpg,Zdislav Beksinski/87966.jpg,14
+John Singer Sargent,1909,genre painting,1296.0,1085.0,502916.0,wikiart,Impressionism,Albanian Olive Pickers,train_and_test,True,36906.jpg,John Singer Sargent/36906.jpg,7
+Marc Chagall,1914,genre painting,1325.0,1902.0,309851.0,wikiart,Cubism,The Fiddler ,train_and_test,True,51021.jpg,Marc Chagall/51021.jpg,8
+Rembrandt,1659,religious painting,1280.0,1049.0,607375.0,wikiart,Baroque,Peter and John healing the cripple at the gate of the Temple,train_and_test,True,54652.jpg,Rembrandt/54652.jpg,13
+Ivan Aivazovsky,,landscape,1032.0,811.0,66482.0,wikiart,Romanticism,Seascape,train_and_test,True,25769.jpg,Ivan Aivazovsky/25769.jpg,5
+Ivan Aivazovsky,,marina,1000.0,658.0,71248.0,wikiart,Romanticism,Misty morning ,train_and_test,True,85862.jpg,Ivan Aivazovsky/85862.jpg,5
+Albrecht Durer,,animal painting,1977.0,3000.0,565378.0,wikiart,Northern Renaissance,Stork,train_and_test,True,23875.jpg,Albrecht Durer/23875.jpg,0
+Pierre-Auguste Renoir,1895,landscape,1246.0,1024.0,388713.0,wikiart,Impressionism,Clearing,train_and_test,True,51639.jpg,Pierre-Auguste Renoir/51639.jpg,12
+Giovanni Battista Piranesi,1756.0,cityscape,1500.0,1149.0,691706.0,wikiart,Neoclassicism,"The Roman antiquities, t. 1, Plate XVIII. Tomb near Porta San Sebastiano.",train_and_test,True,2214.jpg,Giovanni Battista Piranesi/2214.jpg,2
+Giovanni Battista Piranesi,,cityscape,1500.0,1140.0,497865.0,wikiart,Neoclassicism,View the remains of the tomb of the Family of Plautius the Via Tiburtina near Ponte Lugano,train_and_test,True,73551.jpg,Giovanni Battista Piranesi/73551.jpg,2
+Ilya Repin,1877.0,portrait,1000.0,651.0,110750.0,wikiart,Realism,Death of Fedor Chizhov ,train_and_test,True,1653.jpg,Ilya Repin/1653.jpg,4
+Paul Cezanne,1867,portrait,2024.0,2585.0,404459.0,wikiart,Romanticism,The Negro Scipio,train_and_test,True,83386.jpg,Paul Cezanne/83386.jpg,11
+Albrecht Durer,1503,religious painting,2616.0,3488.0,2335828.0,wikiart,Northern Renaissance,A Life of the Virgin,train_and_test,True,95254.jpg,Albrecht Durer/95254.jpg,0
+Ilya Repin,1895.0,genre painting,1000.0,708.0,133232.0,wikiart,Realism,In the hut,train_and_test,True,94852.jpg,Ilya Repin/94852.jpg,4
+Zdislav Beksinski,,symbolic painting,952.0,990.0,72627.0,wikiart,Surrealism,Untitled,train_and_test,True,44930.jpg,Zdislav Beksinski/44930.jpg,14
+Gustave Dore,,religious painting,1024.0,1392.0,741838.0,wikiart,Romanticism,David Shows Saul How He Spared His Life,train_and_test,True,77445.jpg,Gustave Dore/77445.jpg,3
+Rembrandt,1667,portrait,675.0,809.0,69786.0,wikipedia,Baroque,Portrait of a Man,train_and_test,True,2739.jpg,Rembrandt/2739.jpg,13
+Rembrandt,1656,portrait,1020.0,775.0,559085.0,wikiart,Baroque,Abraham Franz,train_and_test,True,92579.jpg,Rembrandt/92579.jpg,13
+Marc Chagall,1963,genre painting,576.0,768.0,231295.0,wikiart,Naïve Art (Primitivism),Itinerant players,train_and_test,True,64249.jpg,Marc Chagall/64249.jpg,8
+Rembrandt,1652,animal painting,1784.0,1233.0,276530.0,wikiart,Baroque,Lion resting,train_and_test,True,82444.jpg,Rembrandt/82444.jpg,13
+Ivan Aivazovsky,1897,genre painting,1720.0,1398.0,603108.0,wikiart,Romanticism,Ox Cart Crossing a Flooded Plain,train_and_test,True,10561.jpg,Ivan Aivazovsky/10561.jpg,5
+Rembrandt,1631,portrait,1289.0,1600.0,275319.0,wikiart,Baroque,The Prophetess Anna (Rembrandt`s Mother),train_and_test,True,16031.jpg,Rembrandt/16031.jpg,13
+Pierre-Auguste Renoir,,landscape,1280.0,738.0,203807.0,wikiart,Impressionism,Midday Landscape,train_and_test,True,52209.jpg,Pierre-Auguste Renoir/52209.jpg,12
+Camille Pissarro,1903,cityscape,1248.0,1024.0,310789.0,wikiart,Impressionism,"The Inner Port and Pilots Jetty, Havre",train_and_test,True,95270.jpg,Camille Pissarro/95270.jpg,1
+Ivan Shishkin,1892.0,landscape,1000.0,633.0,161667.0,wikiart,Realism,Rye,train_and_test,True,66876.jpg,Ivan Shishkin/66876.jpg,6
+Camille Pissarro,1872,landscape,1280.0,892.0,298204.0,wikiart,Impressionism,"Thaw, Pontoise",train_and_test,True,30657.jpg,Camille Pissarro/30657.jpg,1
+Giovanni Battista Piranesi,,capriccio,3912.0,3077.0,4066941.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,96147.jpg,Giovanni Battista Piranesi/96147.jpg,2
+Marc Chagall,1961,sketch and study,758.0,569.0,84675.0,wikiart,Surrealism,Adam and Eve expelled from Paradise,train_and_test,True,33410.jpg,Marc Chagall/33410.jpg,8
+Giovanni Battista Piranesi,,interior,3861.0,2787.0,3742933.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,69250.jpg,Giovanni Battista Piranesi/69250.jpg,2
+Pierre-Auguste Renoir,1873,genre painting,974.0,1128.0,184225.0,wikiart,Realism,Riding in the Bois de Boulogne (Madame Henriette Darras or The Ride),train_and_test,True,35013.jpg,Pierre-Auguste Renoir/35013.jpg,12
+Zdislav Beksinski,,symbolic painting,859.0,1040.0,251106.0,wikiart,Surrealism,Untitled,train_and_test,True,61021.jpg,Zdislav Beksinski/61021.jpg,14
+Rembrandt,1646,landscape,1024.0,761.0,441339.0,wikiart,Baroque,Winter Landscape,train_and_test,True,62734.jpg,Rembrandt/62734.jpg,13
+Zdislav Beksinski,,cityscape,566.0,768.0,120723.0,wikiart,Surrealism,Untitled,train_and_test,True,71196.jpg,Zdislav Beksinski/71196.jpg,14
+Ivan Aivazovsky,1899,landscape,1000.0,635.0,170321.0,wikiart,Romanticism,Pushkin at the top of the Ai-Petri Mountain at sunrise,train_and_test,True,77053.jpg,Ivan Aivazovsky/77053.jpg,5
+Martiros Saryan,1942,still life,1100.0,642.0,409497.0,wikiart,Realism,Fruits and vegetables,train_and_test,True,4111.jpg,Martiros Saryan/4111.jpg,9
+Martiros Saryan,1907,sketch and study,706.0,800.0,105397.0,wikiart,Expressionism,By the sea,train_and_test,True,53971.jpg,Martiros Saryan/53971.jpg,9
+Martiros Saryan,1911,portrait,718.0,800.0,114937.0,wikiart,Expressionism,Portrait of I. Shchukin,train_and_test,True,48126.jpg,Martiros Saryan/48126.jpg,9
+Pierre-Auguste Renoir,1914,portrait,979.0,1233.0,302324.0,wikiart,Impressionism,Tilla Durieux,train_and_test,True,69011.jpg,Pierre-Auguste Renoir/69011.jpg,12
+Paul Cezanne,c.1902,portrait,1216.0,1568.0,95688.0,wikiart,Post-Impressionism,Man Smoking a Pipe ,train_and_test,True,54782.jpg,Paul Cezanne/54782.jpg,11
+Camille Pissarro,1881,landscape,739.0,1076.0,230656.0,wikiart,Impressionism,By the Water,train_and_test,True,82509.jpg,Camille Pissarro/82509.jpg,1
+Rembrandt,1630,sketch and study,972.0,1280.0,819850.0,wikiart,Baroque,Christ disputing with the doctors,train_and_test,True,28579.jpg,Rembrandt/28579.jpg,13
+Martiros Saryan,1953,landscape,1000.0,628.0,101445.0,wikiart,Realism,Noon,train_and_test,True,16897.jpg,Martiros Saryan/16897.jpg,9
+Zdislav Beksinski,,symbolic painting,1009.0,1040.0,302197.0,wikiart,Surrealism,Untitled,train_and_test,True,14492.jpg,Zdislav Beksinski/14492.jpg,14
+Ilya Repin,1890.0,portrait,852.0,1000.0,194438.0,wikiart,Realism,Portrait of the philanthropist Olga Sergeyevna Aleksandrova-Heinz,train_and_test,True,91908.jpg,Ilya Repin/91908.jpg,4
+Pablo Picasso,1934,nude painting (nu),857.0,1088.0,496057.0,wikiart,Surrealism,Female nude in the garden,train_and_test,True,53631.jpg,Pablo Picasso/53631.jpg,10
+Ivan Shishkin,1885.0,landscape,1000.0,556.0,154073.0,wikiart,Realism,Coast of Oak grove of Peter the Great in Sestroretsk,train_and_test,True,75878.jpg,Ivan Shishkin/75878.jpg,6
+Gustave Dore,c.1868,religious painting,1024.0,1408.0,715150.0,wikiart,Romanticism,"Deborah, engraved by Ettlin",train_and_test,True,60035.jpg,Gustave Dore/60035.jpg,3
+Gustave Dore,1866,religious painting,1487.0,1885.0,489828.0,wikiart,Romanticism,The Dove Sent Forth From The Ark,train_and_test,True,50522.jpg,Gustave Dore/50522.jpg,3
+Paul Cezanne,1894,still life,1280.0,1005.0,211501.0,wikiart,Post-Impressionism,"Fruit Bowl, Pitcher and Fruit",train_and_test,True,97792.jpg,Paul Cezanne/97792.jpg,11
+Ilya Repin,,landscape,1000.0,669.0,217466.0,wikiart,Realism,Landscape Zdravnevo,train_and_test,True,71175.jpg,Ilya Repin/71175.jpg,4
+Ivan Shishkin,1891.0,landscape,2111.0,1300.0,688806.0,wikiart,Realism,Rain in the Oak Forest,train_and_test,True,3521.jpg,Ivan Shishkin/3521.jpg,6
+John Singer Sargent,1908,portrait,640.0,1091.0,87160.0,wikipedia,Realism,Arthur James Balfor,train_and_test,True,65733.jpg,John Singer Sargent/65733.jpg,7
+Paul Cezanne,1884,landscape,698.0,1094.0,176833.0,wikiart,Post-Impressionism,Trees,train_and_test,True,57186.jpg,Paul Cezanne/57186.jpg,11
+Ivan Shishkin,,landscape,662.0,1000.0,230886.0,wikiart,Realism,Forest stream,train_and_test,True,7195.jpg,Ivan Shishkin/7195.jpg,6
+Rembrandt,1635,religious painting,1280.0,1037.0,1093703.0,wikiart,Baroque,Christ driving the moneychangers from the Temple,train_and_test,True,24821.jpg,Rembrandt/24821.jpg,13
+Pablo Picasso,1909,genre painting,859.0,1088.0,400194.0,wikiart,Analytical Cubism,Woman with a Mandolin,train_and_test,True,78494.jpg,Pablo Picasso/78494.jpg,10
+Martiros Saryan,1949,landscape,800.0,587.0,107805.0,wikiart,Realism,Mount Ararat from the village Mhchan,train_and_test,True,45007.jpg,Martiros Saryan/45007.jpg,9
+Rembrandt,1631,genre painting,861.0,1280.0,439939.0,wikiart,Baroque,Beggar with his left hand extended,train_and_test,True,62481.jpg,Rembrandt/62481.jpg,13
+Paul Cezanne,c.1900,landscape,2024.0,2589.0,575357.0,wikiart,Post-Impressionism,Pine and Aqueduct,train_and_test,True,66446.jpg,Paul Cezanne/66446.jpg,11
+Giovanni Battista Piranesi,,sketch and study,1266.0,1500.0,439001.0,wikiart,Neoclassicism,Old man`s head in profile,train_and_test,True,34002.jpg,Giovanni Battista Piranesi/34002.jpg,2
+Gustave Dore,1877,illustration,800.0,1013.0,191106.0,wikiart,Romanticism,St. Francis of Assisi,train_and_test,True,84967.jpg,Gustave Dore/84967.jpg,3
+Marc Chagall,1981,design,626.0,650.0,52087.0,wikiart,Naïve Art (Primitivism),Chapel du Saillant,train_and_test,True,47691.jpg,Marc Chagall/47691.jpg,8
+Albrecht Durer,,religious painting,2426.0,3000.0,852843.0,wikiart,Northern Renaissance,Visitation,train_and_test,True,48340.jpg,Albrecht Durer/48340.jpg,0
+Pierre-Auguste Renoir,,landscape,1024.0,1178.0,266586.0,wikiart,Impressionism,Landscape,train_and_test,True,65450.jpg,Pierre-Auguste Renoir/65450.jpg,12
+Albrecht Durer,1521,religious painting,2116.0,3000.0,1255106.0,wikiart,Northern Renaissance,St. Apollonia,train_and_test,True,38799.jpg,Albrecht Durer/38799.jpg,0
+Ilya Repin,1903.0,portrait,1027.0,617.0,142526.0,wikiart,Realism,Double Portrait of Natalia Nordmann and Ilya-Repin,train_and_test,True,43639.jpg,Ilya Repin/43639.jpg,4
+Paul Cezanne,1887,landscape,1280.0,936.0,345495.0,wikiart,Post-Impressionism,House behind Trees on the Road to Tholonet,train_and_test,True,48415.jpg,Paul Cezanne/48415.jpg,11
+Camille Pissarro,1901,genre painting,1276.0,992.0,389604.0,wikiart,Impressionism,Haymaking in Eragny,train_and_test,True,16924.jpg,Camille Pissarro/16924.jpg,1
+Pablo Picasso,1919,portrait,928.0,1280.0,587130.0,wikiart,Neoclassicism,Portrait of Léonide Massine,train_and_test,True,16930.jpg,Pablo Picasso/16930.jpg,10
+Marc Chagall,c.1963,sketch and study,758.0,534.0,201186.0,wikiart,Surrealism,The Jacob's Dream,train_and_test,True,79166.jpg,Marc Chagall/79166.jpg,8
+Rembrandt,1647,religious painting,610.0,900.0,110247.0,wikiart,Baroque,Susanna and the Elders,train_and_test,True,90030.jpg,Rembrandt/90030.jpg,13
+John Singer Sargent,c.1903,cityscape,1116.0,803.0,244867.0,wikiart,Impressionism,Venice. The Prison,train_and_test,True,60616.jpg,John Singer Sargent/60616.jpg,7
+Martiros Saryan,1947,still life,800.0,639.0,154158.0,wikiart,Expressionism,Irises and poppies,train_and_test,True,33927.jpg,Martiros Saryan/33927.jpg,9
+Camille Pissarro,1874,landscape,2144.0,1681.0,620214.0,wikiart,Impressionism,Ploughland,train_and_test,True,57717.jpg,Camille Pissarro/57717.jpg,1
+Martiros Saryan,1955,still life,800.0,589.0,184567.0,wikiart,Realism,Anniversary flowers,train_and_test,True,87837.jpg,Martiros Saryan/87837.jpg,9
+Albrecht Durer,,religious painting,1905.0,3000.0,650539.0,wikipedia,Northern Renaissance,Christ Crowned with Thorns ,train_and_test,True,83301.jpg,Albrecht Durer/83301.jpg,0
+Pablo Picasso,1905,genre painting,1535.0,2447.0,544429.0,wikiart,Symbolism,Girl on the ball,train_and_test,True,35091.jpg,Pablo Picasso/35091.jpg,10
+Marc Chagall,1966,portrait,1282.0,1902.0,384011.0,wikiart,Surrealism,Portrait of Vava,train_and_test,True,2633.jpg,Marc Chagall/2633.jpg,8
+John Singer Sargent,1910,cityscape,1129.0,1173.0,364514.0,wikiart,Impressionism,Florence. Torre Galli,train_and_test,True,28461.jpg,John Singer Sargent/28461.jpg,7
+Camille Pissarro,1879,landscape,1231.0,1024.0,1650280.0,wikiart,Impressionism,"The Auvers Road, Pontoise",train_and_test,True,2763.jpg,Camille Pissarro/2763.jpg,1
+Pablo Picasso,1908,still life,891.0,1088.0,410343.0,wikiart,Cubism,"Pot, Glass and Book",train_and_test,True,88994.jpg,Pablo Picasso/88994.jpg,10
+Martiros Saryan,1898,portrait,871.0,1000.0,159971.0,wikiart,Realism,Portrait of Sanduht,train_and_test,True,45924.jpg,Martiros Saryan/45924.jpg,9
+Paul Cezanne,,landscape,1216.0,960.0,106441.0,wikiart,Impressionism,Horse-chestnut-trees in Jas de Bouffan,train_and_test,True,49502.jpg,Paul Cezanne/49502.jpg,11
+Ivan Shishkin,1893.0,landscape,660.0,1000.0,253102.0,wikiart,Realism,Cliff,train_and_test,True,30747.jpg,Ivan Shishkin/30747.jpg,6
+Pablo Picasso,c.1899,portrait,1491.0,1976.0,511474.0,wikiart,Realism,Portrait of Casagemas,train_and_test,True,19221.jpg,Pablo Picasso/19221.jpg,10
+Martiros Saryan,1911,sketch and study,706.0,800.0,89937.0,wikiart,Expressionism,Walking woman,train_and_test,True,24847.jpg,Martiros Saryan/24847.jpg,9
+Gustave Dore,,illustration,738.0,945.0,299091.0,wikiart,Romanticism,Don Quixote,train_and_test,True,21156.jpg,Gustave Dore/21156.jpg,3
+Gustave Dore,1854,genre painting,1991.0,2508.0,2197225.0,wikiart,Romanticism,"Semiramide, spidocchiatrice di straccioni",train_and_test,True,84614.jpg,Gustave Dore/84614.jpg,3
+Pierre-Auguste Renoir,1881,landscape,1133.0,944.0,240860.0,wikiart,Impressionism,The Garden of Essai in Algiers,train_and_test,True,33121.jpg,Pierre-Auguste Renoir/33121.jpg,12
+Paul Cezanne,c.1906,landscape,3176.0,2606.0,996303.0,wikiart,Cubism,Mont Sainte-Victoire,train_and_test,True,3169.jpg,Paul Cezanne/3169.jpg,11
+Pablo Picasso,1905,genre painting,684.0,1230.0,120409.0,wikipedia,Post-Impressionism,Acrobat and young harlequin,train_and_test,True,92191.jpg,Pablo Picasso/92191.jpg,10
+Ilya Repin,1897.0,genre painting,1000.0,503.0,108284.0,wikiart,Realism,The Duel,train_and_test,True,81400.jpg,Ilya Repin/81400.jpg,4
+Albrecht Durer,,portrait,1024.0,1367.0,248713.0,wikiart,Northern Renaissance,Cardinal Albrecht von Brandenburg,train_and_test,True,49671.jpg,Albrecht Durer/49671.jpg,0
+Giovanni Battista Piranesi,,religious painting,1500.0,1320.0,529983.0,wikiart,Neoclassicism,Nativity,train_and_test,True,44078.jpg,Giovanni Battista Piranesi/44078.jpg,2
+Albrecht Durer,,sketch and study,2560.0,1771.0,607604.0,wikiart,Northern Renaissance,"Studies on a great ""picture of the Virgin""   Madonna and Child, saints and angels playing",train_and_test,True,59211.jpg,Albrecht Durer/59211.jpg,0
+Ilya Repin,1887.0,portrait,784.0,1000.0,145615.0,wikiart,Realism,Portrait of a Woman,train_and_test,True,36760.jpg,Ilya Repin/36760.jpg,4
+John Singer Sargent,1904,portrait,869.0,1196.0,309529.0,wikiart,Impressionism,Jane de Glehn in a Gondola,train_and_test,True,27780.jpg,John Singer Sargent/27780.jpg,7
+Ivan Shishkin,1863.0,landscape,1000.0,621.0,167968.0,wikiart,Realism,Cows under the oak,train_and_test,True,35256.jpg,Ivan Shishkin/35256.jpg,6
+Camille Pissarro,1883,cityscape,1247.0,1024.0,252724.0,wikiart,Impressionism,The Port of Rouen,train_and_test,True,96313.jpg,Camille Pissarro/96313.jpg,1
+John Singer Sargent,1897,portrait,1399.0,3009.0,1100049.0,wikiart,Realism,Mr. and Mrs. Isaac Newton Phelps Stokes,train_and_test,True,3363.jpg,John Singer Sargent/3363.jpg,7
+Ivan Aivazovsky,1853,marina,1000.0,630.0,82848.0,wikiart,Romanticism,Sunset. A lone sailboat,train_and_test,True,14490.jpg,Ivan Aivazovsky/14490.jpg,5
+Rembrandt,1654,religious painting,800.0,1017.0,234193.0,wikiart,Baroque,Jesus Christ Entombed,train_and_test,True,100847.jpg,Rembrandt/100847.jpg,13
+Albrecht Durer,,sketch and study,1576.0,1867.0,367616.0,wikiart,Northern Renaissance,The Holy Family in the Room,train_and_test,True,38988.jpg,Albrecht Durer/38988.jpg,0
+Albrecht Durer,c.1496,religious painting,2024.0,2531.0,649609.0,wikiart,Northern Renaissance,Lot's escape ,train_and_test,True,12572.jpg,Albrecht Durer/12572.jpg,0
+Pablo Picasso,1908,vanitas,790.0,1072.0,187990.0,wikiart,Cubism,Composition with skull,train_and_test,True,94405.jpg,Pablo Picasso/94405.jpg,10
+Camille Pissarro,1896,landscape,1260.0,1024.0,456431.0,wikiart,Impressionism,Enclosed Field at Eragny,train_and_test,True,34975.jpg,Camille Pissarro/34975.jpg,1
+Pierre-Auguste Renoir,1908,landscape,1280.0,983.0,296972.0,wikiart,Impressionism,Landscape at Cagnes,train_and_test,True,3497.jpg,Pierre-Auguste Renoir/3497.jpg,12
+Zdislav Beksinski,,symbolic painting,525.0,550.0,44145.0,wikiart,Surrealism,Untitled,train_and_test,True,101998.jpg,Zdislav Beksinski/101998.jpg,14
+Zdislav Beksinski,,symbolic painting,478.0,600.0,46506.0,wikiart,Surrealism,Untitled,train_and_test,True,29573.jpg,Zdislav Beksinski/29573.jpg,14
+Ivan Aivazovsky,1870,marina,1000.0,657.0,111459.0,wikiart,Romanticism,Ship at sea,train_and_test,True,75242.jpg,Ivan Aivazovsky/75242.jpg,5
+Ilya Repin,1881.0,genre painting,719.0,1000.0,210171.0,wikiart,Realism,Watch,train_and_test,True,19454.jpg,Ilya Repin/19454.jpg,4
+John Singer Sargent,c.1903,genre painting,1190.0,856.0,266003.0,wikiart,Impressionism,Venetian Interior,train_and_test,True,77249.jpg,John Singer Sargent/77249.jpg,7
+Martiros Saryan,1954,still life,2852.0,1887.0,2989868.0,wikiart,Realism,Gifts of Autumn,train_and_test,True,71295.jpg,Martiros Saryan/71295.jpg,9
+Rembrandt,1659,portrait,950.0,1022.0,53756.0,wikipedia,Baroque,Portrait of Hendrickje Stofells as Flora,train_and_test,True,76202.jpg,Rembrandt/76202.jpg,13
+Ivan Shishkin,1889.0,landscape,1000.0,623.0,159749.0,wikiart,Realism,Por-threshold,train_and_test,True,70847.jpg,Ivan Shishkin/70847.jpg,6
+Giovanni Battista Piranesi,,cityscape,3887.0,2831.0,3975940.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,59420.jpg,Giovanni Battista Piranesi/59420.jpg,2
+Ilya Repin,1884.0,portrait,751.0,1000.0,145232.0,wikiart,Realism,"Dragon Fly. Portrait of Vera Repina, the Artist's Daughter",train_and_test,True,55595.jpg,Ilya Repin/55595.jpg,4
+Pablo Picasso,1960,genre painting,1088.0,796.0,443927.0,wikiart,Surrealism,Reclining woman reading,train_and_test,True,4946.jpg,Pablo Picasso/4946.jpg,10
+Marc Chagall,c.1906,portrait,532.0,768.0,134567.0,wikiart,Expressionism,Old Woman with a Ball of Yarn,train_and_test,True,21648.jpg,Marc Chagall/21648.jpg,8
+Pablo Picasso,1906,portrait,835.0,1088.0,519205.0,wikiart,Expressionism,Spaniard,train_and_test,True,97037.jpg,Pablo Picasso/97037.jpg,10
+Albrecht Durer,1506,sketch and study,2309.0,3000.0,1282975.0,wikiart,Northern Renaissance,Head of an Angel,train_and_test,True,47941.jpg,Albrecht Durer/47941.jpg,0
+Camille Pissarro,1884,genre painting,1238.0,1024.0,431185.0,wikiart,Impressionism,Apple Tree at Eragny,train_and_test,True,31887.jpg,Camille Pissarro/31887.jpg,1
+John Singer Sargent,1914,landscape,1272.0,966.0,388108.0,wikiart,Impressionism,The Fence,train_and_test,True,51090.jpg,John Singer Sargent/51090.jpg,7
+Martiros Saryan,1902,sketch and study,800.0,499.0,108259.0,wikiart,Expressionism,Armenian village,train_and_test,True,56433.jpg,Martiros Saryan/56433.jpg,9
+Paul Cezanne,1864,portrait,756.0,1054.0,162345.0,wikiart,Romanticism,Portrait of a Man,train_and_test,True,74243.jpg,Paul Cezanne/74243.jpg,11
+Albrecht Durer,,religious painting,2442.0,3000.0,952853.0,wikiart,Northern Renaissance,Doomsday,train_and_test,True,5443.jpg,Albrecht Durer/5443.jpg,0
+Camille Pissarro,1896,cityscape,1269.0,1024.0,263610.0,wikiart,Impressionism,"The Saint Sever Quay, Rouen",train_and_test,True,22520.jpg,Camille Pissarro/22520.jpg,1
+Zdislav Beksinski,,symbolic painting,809.0,1193.0,163596.0,wikiart,Surrealism,Untitled,train_and_test,True,56365.jpg,Zdislav Beksinski/56365.jpg,14
+Paul Cezanne,1867,genre painting,1021.0,744.0,157286.0,wikiart,Romanticism,The Rum Punch,train_and_test,True,52190.jpg,Paul Cezanne/52190.jpg,11
+Albrecht Durer,,landscape,1024.0,804.0,223339.0,wikiart,Northern Renaissance,Doss Trento,train_and_test,True,84802.jpg,Albrecht Durer/84802.jpg,0
+Marc Chagall,1914,portrait,593.0,712.0,45593.0,wikiart,Expressionism,Wounded Soldier,train_and_test,True,9375.jpg,Marc Chagall/9375.jpg,8
+Martiros Saryan,1961,landscape,700.0,524.0,38484.0,wikiart,Realism,Mount Ararat,train_and_test,True,100786.jpg,Martiros Saryan/100786.jpg,9
+Ivan Aivazovsky,1842,landscape,1000.0,668.0,122718.0,wikiart,Romanticism,In harbour,train_and_test,True,85546.jpg,Ivan Aivazovsky/85546.jpg,5
+Albrecht Durer,1493,self-portrait,2220.0,3000.0,682738.0,wikiart,Northern Renaissance,"Study sheet with self-portrait, hand, and cushions",train_and_test,True,64374.jpg,Albrecht Durer/64374.jpg,0
+Ivan Shishkin,,sketch and study,1000.0,712.0,144237.0,wikiart,Realism,Landscape with carts,train_and_test,True,59223.jpg,Ivan Shishkin/59223.jpg,6
+Camille Pissarro,1886,genre painting,1024.0,1028.0,272549.0,wikiart,Pointillism,The Apple Pickers,train_and_test,True,90570.jpg,Camille Pissarro/90570.jpg,1
+Ivan Aivazovsky,,marina,2103.0,1200.0,415209.0,wikiart,Romanticism,Parade of the Black Sea Fleet,train_and_test,True,25010.jpg,Ivan Aivazovsky/25010.jpg,5
+Albrecht Durer,,sketch and study,2122.0,3000.0,783496.0,wikiart,Northern Renaissance,The Cross of Christ ,train_and_test,True,23895.jpg,Albrecht Durer/23895.jpg,0
+Ilya Repin,1891.0,portrait,811.0,1000.0,98748.0,wikiart,Realism,Portrait of poet Grand Prince Konstantin Konstantinovich Romanov,train_and_test,True,58759.jpg,Ilya Repin/58759.jpg,4
+Ivan Shishkin,,landscape,718.0,1000.0,163077.0,wikiart,Realism,In the park,train_and_test,True,70116.jpg,Ivan Shishkin/70116.jpg,6
+Zdislav Beksinski,,cityscape,535.0,768.0,40128.0,wikiart,Surrealism,Untitled,train_and_test,True,44762.jpg,Zdislav Beksinski/44762.jpg,14
+Ilya Repin,1889.0,portrait,769.0,1000.0,155618.0,wikiart,Realism,Portrait of a Peasant,train_and_test,True,17357.jpg,Ilya Repin/17357.jpg,4
+Pierre-Auguste Renoir,1870,animal painting,1580.0,1733.0,552658.0,wikiart,Impressionism,Head of a Dog,train_and_test,True,28827.jpg,Pierre-Auguste Renoir/28827.jpg,12
+Rembrandt,1646,genre painting,1280.0,957.0,512294.0,wikiart,Baroque,The monk in the cornfield,train_and_test,True,35848.jpg,Rembrandt/35848.jpg,13
+Ilya Repin,1871.0,religious painting,1000.0,539.0,147597.0,wikiart,Realism,Raising of Jairus Daughter,train_and_test,True,5401.jpg,Ilya Repin/5401.jpg,4
+Pierre-Auguste Renoir,c.1900,landscape,1280.0,988.0,305739.0,wikiart,Impressionism,The Sunny Street,train_and_test,True,64156.jpg,Pierre-Auguste Renoir/64156.jpg,12
+Zdislav Beksinski,,symbolic painting,996.0,1040.0,270267.0,wikiart,Surrealism,Untitled,train_and_test,True,66847.jpg,Zdislav Beksinski/66847.jpg,14
+Camille Pissarro,c.1898,portrait,893.0,1178.0,126866.0,wikiart,Impressionism,The Laundry Woman,train_and_test,True,49331.jpg,Camille Pissarro/49331.jpg,1
+John Singer Sargent,1908,cityscape,771.0,1101.0,215187.0,wikiart,Impressionism,Tarragona,train_and_test,True,49123.jpg,John Singer Sargent/49123.jpg,7
+Ilya Repin,1879.0,portrait,739.0,1000.0,138367.0,wikiart,Realism,Portrait of Folk Story-teller V.P. Schegolenkov,train_and_test,True,29500.jpg,Ilya Repin/29500.jpg,4
+Marc Chagall,c.1963,sketch and study,758.0,581.0,59378.0,wikiart,Surrealism,Noah and the Rainbow,train_and_test,True,20795.jpg,Marc Chagall/20795.jpg,8
+Pierre-Auguste Renoir,c.1918,nude painting (nu),1264.0,1024.0,249639.0,wikiart,Impressionism,Bathers,train_and_test,True,32245.jpg,Pierre-Auguste Renoir/32245.jpg,12
+Ilya Repin,,genre painting,1000.0,817.0,184867.0,wikiart,Realism,Cossack in the steppe,train_and_test,True,48905.jpg,Ilya Repin/48905.jpg,4
+Gustave Dore,,illustration,744.0,975.0,308427.0,wikiart,Romanticism,Don Quixote,train_and_test,True,99930.jpg,Gustave Dore/99930.jpg,3
+Marc Chagall,1957,religious painting,758.0,583.0,78480.0,wikiart,Surrealism,Song of Songs II,train_and_test,True,54735.jpg,Marc Chagall/54735.jpg,8
+Marc Chagall,1914,portrait,570.0,750.0,64080.0,wikiart,Expressionism,Newspaper Seller,train_and_test,True,78328.jpg,Marc Chagall/78328.jpg,8
+Paul Cezanne,c.1903,landscape,738.0,1137.0,127586.0,wikiart,Post-Impressionism,Mont Sainte-Victoire Seen from les Lauves,train_and_test,True,73870.jpg,Paul Cezanne/73870.jpg,11
+Marc Chagall,1909,genre painting,800.0,688.0,114616.0,wikiart,Expressionism,The Couple (A Holy Family),train_and_test,True,101649.jpg,Marc Chagall/101649.jpg,8
+Giovanni Battista Piranesi,,portrait,1118.0,1500.0,372244.0,wikiart,Neoclassicism,Equestrian statue of Marcus Aurelius,train_and_test,True,64939.jpg,Giovanni Battista Piranesi/64939.jpg,2
+Martiros Saryan,1950,flower painting,800.0,645.0,165889.0,wikiart,Realism,Flowers of Stepanavan,train_and_test,True,2995.jpg,Martiros Saryan/2995.jpg,9
+Camille Pissarro,1894,genre painting,1280.0,1005.0,1814540.0,wikiart,Impressionism,Bathers 3,train_and_test,True,24143.jpg,Camille Pissarro/24143.jpg,1
+Pablo Picasso,1936,portrait,843.0,1000.0,143277.0,wikiart,Surrealism,Untitled,train_and_test,True,38426.jpg,Pablo Picasso/38426.jpg,10
+Zdislav Beksinski,,symbolic painting,1443.0,1752.0,634067.0,wikiart,Surrealism,Untitled,train_and_test,True,92507.jpg,Zdislav Beksinski/92507.jpg,14
+Gustave Dore,,genre painting,1582.0,1200.0,831303.0,wikiart,Romanticism,Eléphant,train_and_test,True,68532.jpg,Gustave Dore/68532.jpg,3
+Rembrandt,1630,self-portrait,1172.0,1280.0,941303.0,wikiart,Baroque,Self-portrait open mouthed,train_and_test,True,23416.jpg,Rembrandt/23416.jpg,13
+Paul Cezanne,c.1868,landscape,829.0,1052.0,220157.0,wikiart,Romanticism,Road in Provence,train_and_test,True,67137.jpg,Paul Cezanne/67137.jpg,11
+Paul Cezanne,1888,landscape,2024.0,2619.0,553610.0,wikiart,Post-Impressionism,The Alley at Chantilly,train_and_test,True,21052.jpg,Paul Cezanne/21052.jpg,11
+Ivan Aivazovsky,1868,marina,1000.0,839.0,95260.0,wikiart,Romanticism,Stormy Sea,train_and_test,True,22631.jpg,Ivan Aivazovsky/22631.jpg,5
+Paul Cezanne,1883,portrait,751.0,1061.0,205399.0,wikiart,Post-Impressionism,Portrait of Madame Cezanne,train_and_test,True,5554.jpg,Paul Cezanne/5554.jpg,11
+Marc Chagall,1958,religious painting,758.0,565.0,189825.0,wikiart,Surrealism,Song of Songs IV,train_and_test,True,10559.jpg,Marc Chagall/10559.jpg,8
+Pablo Picasso,1925,still life,1088.0,807.0,328944.0,wikiart,Surrealism,Still life with antique bust,train_and_test,True,73514.jpg,Pablo Picasso/73514.jpg,10
+Martiros Saryan,1909,flower painting,678.0,800.0,138917.0,wikiart,Expressionism,Steppe flowers,train_and_test,True,12759.jpg,Martiros Saryan/12759.jpg,9
+Pierre-Auguste Renoir,1876,nude painting (nu),1474.0,1959.0,470422.0,wikiart,Impressionism,Nude Seated on a Sofa,train_and_test,True,3897.jpg,Pierre-Auguste Renoir/3897.jpg,12
+Martiros Saryan,1959,landscape,848.0,586.0,70803.0,wikiart,Symbolism,Armenia,train_and_test,True,45169.jpg,Martiros Saryan/45169.jpg,9
+Albrecht Durer,,religious painting,1966.0,3000.0,750404.0,wikiart,Northern Renaissance,The Cross of Christ ,train_and_test,True,87704.jpg,Albrecht Durer/87704.jpg,0
+Gustave Dore,,illustration,2239.0,1805.0,1433530.0,wikiart,Romanticism,"The Inferno, Canto 9",train_and_test,True,50271.jpg,Gustave Dore/50271.jpg,3
+Ivan Shishkin,1876.0,landscape,806.0,1000.0,268560.0,wikiart,Realism,Bee families in the forest,train_and_test,True,20662.jpg,Ivan Shishkin/20662.jpg,6
+John Singer Sargent,1918,genre painting,5000.0,1868.0,5424727.0,wikiart,Realism,Gassed,train_and_test,True,14128.jpg,John Singer Sargent/14128.jpg,7
+Martiros Saryan,1927,sketch and study,581.0,800.0,132345.0,wikiart,Expressionism,Ravine,train_and_test,True,39025.jpg,Martiros Saryan/39025.jpg,9
+Camille Pissarro,1888,cityscape,1205.0,1024.0,321680.0,wikiart,Pointillism,"Ile Lacruix, Rouen. Effect of Fog.",train_and_test,True,17144.jpg,Camille Pissarro/17144.jpg,1
+Giovanni Battista Piranesi,,cityscape,1121.0,1500.0,504343.0,wikiart,Neoclassicism,View of the Square and Basilica of St. John Lateran,train_and_test,True,26168.jpg,Giovanni Battista Piranesi/26168.jpg,2
+Pierre-Auguste Renoir,1883,genre painting,891.0,1525.0,563429.0,wikiart,Impressionism,Young Girl with a Parasol (Aline Nunès),train_and_test,True,50719.jpg,Pierre-Auguste Renoir/50719.jpg,12
+Marc Chagall,1957,symbolic painting,605.0,768.0,252185.0,wikiart,Naïve Art (Primitivism),Branch and flute-player,train_and_test,True,51352.jpg,Marc Chagall/51352.jpg,8
+Ivan Shishkin,,landscape,1000.0,642.0,201164.0,wikiart,Realism,Children in the forest,train_and_test,True,47823.jpg,Ivan Shishkin/47823.jpg,6
+Zdislav Beksinski,,symbolic painting,805.0,990.0,132638.0,wikiart,Surrealism,Untitled,train_and_test,True,63597.jpg,Zdislav Beksinski/63597.jpg,14
+John Singer Sargent,1890,portrait,630.0,1091.0,89384.0,wikiart,Realism,Grace Woodhouse,train_and_test,True,355.jpg,John Singer Sargent/355.jpg,7
+Gustave Dore,,illustration,2280.0,1817.0,1167102.0,wikiart,Romanticism,"The Inferno, Canto 32",train_and_test,True,75263.jpg,Gustave Dore/75263.jpg,3
+Ivan Shishkin,1884.0,landscape,1764.0,1158.0,338298.0,wikiart,Realism,Pine on sand,train_and_test,True,62809.jpg,Ivan Shishkin/62809.jpg,6
+Pierre-Auguste Renoir,1868,genre painting,1120.0,887.0,248572.0,wikipedia,Realism,Skaters in the Bois de Boulogne,train_and_test,True,65395.jpg,Pierre-Auguste Renoir/65395.jpg,12
+Camille Pissarro,,landscape,1006.0,1280.0,583481.0,wikiart,Impressionism,"Path under the Trees, Summer",train_and_test,True,54904.jpg,Camille Pissarro/54904.jpg,1
+Pablo Picasso,1934,genre painting,868.0,1088.0,467922.0,wikiart,Surrealism,Woman writing,train_and_test,True,28401.jpg,Pablo Picasso/28401.jpg,10
+John Singer Sargent,1903,portrait,667.0,1045.0,135513.0,wikiart,Realism,Mrs. Abbott Lawrence Rotch,train_and_test,True,77442.jpg,John Singer Sargent/77442.jpg,7
+Ivan Aivazovsky,1867,history painting,837.0,1000.0,171400.0,wikiart,Romanticism,Explosion of Arkadion Monastery on Crete in 1866,train_and_test,True,39608.jpg,Ivan Aivazovsky/39608.jpg,5
+Marc Chagall,1917,animal painting,1868.0,1383.0,329299.0,wikiart,Cubism,Composition with goat,train_and_test,True,93546.jpg,Marc Chagall/93546.jpg,8
+Gustave Dore,,illustration,976.0,1210.0,240555.0,wikiart,Romanticism,Paradise Lost,train_and_test,True,55474.jpg,Gustave Dore/55474.jpg,3
+Rembrandt,1652,religious painting,1280.0,956.0,888412.0,wikiart,Baroque,Christ preaching,train_and_test,True,41901.jpg,Rembrandt/41901.jpg,13
+Gustave Dore,,religious painting,1024.0,1406.0,729402.0,wikiart,Romanticism,An Angel Appears to the Israelites,train_and_test,True,50086.jpg,Gustave Dore/50086.jpg,3
+Paul Cezanne,1878,landscape,1280.0,1014.0,296797.0,wikiart,Impressionism,The Sea at l'Estaque,train_and_test,True,66705.jpg,Paul Cezanne/66705.jpg,11
+Marc Chagall,1968,symbolic painting,576.0,768.0,489415.0,wikiart,Naïve Art (Primitivism),Peasant with a Clock ,train_and_test,True,22667.jpg,Marc Chagall/22667.jpg,8
+Martiros Saryan,1946,still life,783.0,800.0,175409.0,wikiart,Post-Impressionism,Bouquet of flowers,train_and_test,True,100319.jpg,Martiros Saryan/100319.jpg,9
+Gustave Dore,,religious painting,1024.0,1417.0,752559.0,wikiart,Romanticism,The Prophets of Baal Are Slaughtered,train_and_test,True,91988.jpg,Gustave Dore/91988.jpg,3
+Rembrandt,,portrait,800.0,972.0,53069.0,wikiart,Baroque,Portrait of Eleazer Swalmius,train_and_test,True,57998.jpg,Rembrandt/57998.jpg,13
+Giovanni Battista Piranesi,1756.0,design,1500.0,1232.0,610958.0,wikiart,Neoclassicism,"The Roman antiquities, t. 2, Plate XVIX. Inscriptions and fragments of the burial chamber above.",train_and_test,True,98887.jpg,Giovanni Battista Piranesi/98887.jpg,2
+Gustave Dore,,religious painting,1024.0,1406.0,720456.0,wikiart,Romanticism,Sennacherib's Army Is Destroyed,train_and_test,True,52181.jpg,Gustave Dore/52181.jpg,3
+Ivan Shishkin,,landscape,766.0,1000.0,215210.0,wikiart,Realism,Pine forest ,train_and_test,True,29371.jpg,Ivan Shishkin/29371.jpg,6
+Martiros Saryan,1958,flower painting,800.0,650.0,194014.0,wikiart,Expressionism,Flowers in the workshop,train_and_test,True,31721.jpg,Martiros Saryan/31721.jpg,9
+Giovanni Battista Piranesi,,cityscape,1500.0,1128.0,473635.0,wikiart,Neoclassicism,Split on the previous plan,train_and_test,True,101945.jpg,Giovanni Battista Piranesi/101945.jpg,2
+Marc Chagall,1912,genre painting,1494.0,1910.0,378827.0,wikiart,Expressionism,The Spoonful of Milk,train_and_test,True,54863.jpg,Marc Chagall/54863.jpg,8
+Rembrandt,1634,religious painting,640.0,866.0,379954.0,wikiart,Baroque,The Crucifixion a Square Small Plate,train_and_test,True,8217.jpg,Rembrandt/8217.jpg,13
+John Singer Sargent,1889,genre painting,772.0,1195.0,197875.0,wikiart,Impressionism,Autumn on the River,train_and_test,True,31727.jpg,John Singer Sargent/31727.jpg,7
+Paul Cezanne,1892,still life,2024.0,3447.0,835410.0,wikiart,Post-Impressionism,Tulips in a Vase,train_and_test,True,53821.jpg,Paul Cezanne/53821.jpg,11
+Gustave Dore,,religious painting,1024.0,1356.0,714969.0,wikiart,Romanticism,The Angel Raphael and the Family of Tobit,train_and_test,True,1136.jpg,Gustave Dore/1136.jpg,3
+Ilya Repin,1879.0,portrait,742.0,1000.0,180804.0,wikiart,Realism,Portrait of E.G. Mamontova ,train_and_test,True,88904.jpg,Ilya Repin/88904.jpg,4
+Ivan Aivazovsky,1842,cityscape,1000.0,646.0,115322.0,wikiart,Romanticism,Sorrento. Sea view,train_and_test,True,28728.jpg,Ivan Aivazovsky/28728.jpg,5
+Marc Chagall,1968,religious painting,758.0,598.0,87291.0,wikiart,Surrealism,Prophet Isaiah,train_and_test,True,33175.jpg,Marc Chagall/33175.jpg,8
+Ivan Shishkin,,landscape,1000.0,585.0,173129.0,wikiart,Realism,Riverside,train_and_test,True,33938.jpg,Ivan Shishkin/33938.jpg,6
+Pablo Picasso,1901,portrait,1433.0,1781.0,416921.0,wikiart,Expressionism,Portrait of Jaime Sabartes (The bock),train_and_test,True,77027.jpg,Pablo Picasso/77027.jpg,10
+Pablo Picasso,1906,nude painting (nu),1038.0,1469.0,189331.0,wikiart,Expressionism,Girl and goat,train_and_test,True,38742.jpg,Pablo Picasso/38742.jpg,10
+Rembrandt,1647,portrait,679.0,802.0,154981.0,wikiart,Baroque,Ephraim Bonus (The Jew with the Banister),train_and_test,True,10525.jpg,Rembrandt/10525.jpg,13
+Pablo Picasso,1921,nude painting (nu),930.0,1280.0,591979.0,wikiart,Neoclassicism,Seated Nude drying her feet,train_and_test,True,98013.jpg,Pablo Picasso/98013.jpg,10
+Zdislav Beksinski,,symbolic painting,1040.0,911.0,115972.0,wikiart,Surrealism,Untitled,train_and_test,True,84838.jpg,Zdislav Beksinski/84838.jpg,14
+Martiros Saryan,1953,sketch and study,800.0,563.0,183845.0,wikiart,Expressionism,Lori,train_and_test,True,63480.jpg,Martiros Saryan/63480.jpg,9
+Gustave Dore,,illustration,800.0,1011.0,149511.0,wikiart,Romanticism,The Baptism of Infidels,train_and_test,True,59380.jpg,Gustave Dore/59380.jpg,3
+Pierre-Auguste Renoir,,portrait,894.0,1121.0,221257.0,wikiart,Impressionism,Woman in an Interior,train_and_test,True,94412.jpg,Pierre-Auguste Renoir/94412.jpg,12
+Ivan Aivazovsky,1851,marina,836.0,1000.0,118590.0,wikiart,Romanticism,View of Crimea,train_and_test,True,74711.jpg,Ivan Aivazovsky/74711.jpg,5
+Marc Chagall,c.1923,illustration,577.0,768.0,148306.0,wikiart,Naïve Art (Primitivism),A man without passport with policeman,train_and_test,True,19315.jpg,Marc Chagall/19315.jpg,8
+Camille Pissarro,1900,cityscape,1259.0,1024.0,280139.0,wikiart,Impressionism,"Pont Neuf, the Statue of Henri IV, Sunny Weather, Morning",train_and_test,True,10103.jpg,Camille Pissarro/10103.jpg,1
+Ivan Aivazovsky,1892,marina,1000.0,661.0,114812.0,wikiart,Romanticism,Sea view ,train_and_test,True,72576.jpg,Ivan Aivazovsky/72576.jpg,5
+Gustave Dore,,illustration,808.0,1068.0,270533.0,wikiart,Romanticism,Walter the Penniless in Hungary,train_and_test,True,36732.jpg,Gustave Dore/36732.jpg,3
+Rembrandt,1634,religious painting,676.0,841.0,134709.0,wikipedia,Baroque,Ecce Homo,train_and_test,True,33772.jpg,Rembrandt/33772.jpg,13
+Zdislav Beksinski,,symbolic painting,533.0,768.0,30717.0,wikiart,Surrealism,Untitled,train_and_test,True,59614.jpg,Zdislav Beksinski/59614.jpg,14
+Paul Cezanne,1885,sketch and study,898.0,1200.0,191083.0,wikiart,Post-Impressionism,The Oak ,train_and_test,True,32775.jpg,Paul Cezanne/32775.jpg,11
+Pierre-Auguste Renoir,1881,portrait,876.0,1110.0,190863.0,wikiart,Impressionism,Alfred Berard and His Dog,train_and_test,True,27275.jpg,Pierre-Auguste Renoir/27275.jpg,12
+Martiros Saryan,1943,self-portrait,800.0,524.0,101558.0,wikiart,Realism,Study to 'Self-portrait. Three ages.',train_and_test,True,15785.jpg,Martiros Saryan/15785.jpg,9
+Zdislav Beksinski,,symbolic painting,1443.0,1784.0,621703.0,wikiart,Surrealism,Untitled,train_and_test,True,45301.jpg,Zdislav Beksinski/45301.jpg,14
+Martiros Saryan,1904,genre painting,800.0,393.0,85086.0,wikiart,Symbolism,Piping shepherd,train_and_test,True,76097.jpg,Martiros Saryan/76097.jpg,9
+John Singer Sargent,c.1880,sketch and study,819.0,901.0,137821.0,wikiart,Impressionism,Paul Helleu,train_and_test,True,29174.jpg,John Singer Sargent/29174.jpg,7
+Zdislav Beksinski,,symbolic painting,1335.0,1780.0,458518.0,wikiart,Surrealism,Untitled,train_and_test,True,88211.jpg,Zdislav Beksinski/88211.jpg,14
+Paul Cezanne,1866,portrait,823.0,1054.0,183366.0,wikiart,Romanticism,Portrait of Uncle Dominique in Profile,train_and_test,True,41318.jpg,Paul Cezanne/41318.jpg,11
+Pablo Picasso,1897,genre painting,1804.0,1411.0,500519.0,wikiart,Realism,Science and Charity,train_and_test,True,3145.jpg,Pablo Picasso/3145.jpg,10
+Giovanni Battista Piranesi,,veduta,3893.0,2564.0,3385760.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,31428.jpg,Giovanni Battista Piranesi/31428.jpg,2
+Ilya Repin,1881.0,genre painting,554.0,1000.0,146647.0,wikiart,Realism,Wanderer,train_and_test,True,20083.jpg,Ilya Repin/20083.jpg,4
+Pablo Picasso,1967,nude painting (nu),800.0,1047.0,157103.0,wikiart,Expressionism,Untitled,train_and_test,True,78017.jpg,Pablo Picasso/78017.jpg,10
+Paul Cezanne,1875,landscape,1269.0,1024.0,259410.0,wikiart,Impressionism,The Etang des Soeurs at Osny,train_and_test,True,95284.jpg,Paul Cezanne/95284.jpg,11
+Paul Cezanne,1868,portrait,1076.0,1124.0,307353.0,wikiart,Romanticism,Portrait of Achille Emperaire,train_and_test,True,99997.jpg,Paul Cezanne/99997.jpg,11
+Martiros Saryan,1913,landscape,800.0,577.0,141120.0,wikiart,Post-Impressionism,Persian house,train_and_test,True,35860.jpg,Martiros Saryan/35860.jpg,9
+Marc Chagall,c.1923,illustration,1024.0,768.0,248162.0,wikiart,Naïve Art (Primitivism),"Illustration to Nikolai Gogol's ""Dead Souls"" ",train_and_test,True,20698.jpg,Marc Chagall/20698.jpg,8
+Gustave Dore,1866,religious painting,1487.0,1885.0,445060.0,wikiart,Romanticism,Jacob Keeping Laban's Flock,train_and_test,True,89194.jpg,Gustave Dore/89194.jpg,3
+Pierre-Auguste Renoir,1880,portrait,1280.0,996.0,350693.0,wikiart,Impressionism,Woman in a Straw Hat,train_and_test,True,47917.jpg,Pierre-Auguste Renoir/47917.jpg,12
+Ivan Aivazovsky,1853,landscape,1044.0,694.0,102345.0,wikiart,Romanticism,Towers on the Rock Near Bosporus,train_and_test,True,26751.jpg,Ivan Aivazovsky/26751.jpg,5
+John Singer Sargent,1889,portrait,771.0,1091.0,95884.0,wikiart,Realism,Flora Priestley,train_and_test,True,4205.jpg,John Singer Sargent/4205.jpg,7
+Pablo Picasso,1905,genre painting,1422.0,1194.0,314951.0,wikiart,Expressionism,Family of acrobats (study),train_and_test,True,70773.jpg,Pablo Picasso/70773.jpg,10
+Ilya Repin,1911.0,history painting,1000.0,503.0,152067.0,wikiart,Realism,"A. Pushkin on the act in the Lyceum on Jan. 8, 1815 reads his poem memories in Tsarskoe Selo",train_and_test,True,47159.jpg,Ilya Repin/47159.jpg,4
+Marc Chagall,1982,still life,618.0,768.0,461553.0,wikiart,Surrealism,Flower Bouquet,train_and_test,True,31314.jpg,Marc Chagall/31314.jpg,8
+Gustave Dore,,religious painting,1024.0,1419.0,726265.0,wikiart,Romanticism,Elijah Ascends to Heaven in a Chariot of Fire,train_and_test,True,83846.jpg,Gustave Dore/83846.jpg,3
+Ivan Aivazovsky,1866,landscape,1000.0,796.0,157403.0,wikiart,Romanticism,Seaside city. View of Yalta ,train_and_test,True,99006.jpg,Ivan Aivazovsky/99006.jpg,5
+Paul Cezanne,c.1902,landscape,2024.0,1603.0,426083.0,wikiart,Post-Impressionism,Road near Mont Sainte-Victoire,train_and_test,True,60654.jpg,Paul Cezanne/60654.jpg,11
+Ivan Shishkin,,landscape,1000.0,548.0,118253.0,wikiart,Realism,Stones ,train_and_test,True,39790.jpg,Ivan Shishkin/39790.jpg,6
+Ivan Aivazovsky,1845,landscape,1000.0,634.0,81630.0,wikiart,Romanticism,View on rocky coast,train_and_test,True,89022.jpg,Ivan Aivazovsky/89022.jpg,5
+Giovanni Battista Piranesi,,sketch and study,1289.0,1500.0,408366.0,wikiart,Neoclassicism,Flora of dressing the hair in place,train_and_test,True,4265.jpg,Giovanni Battista Piranesi/4265.jpg,2
+Gustave Dore,,illustration,747.0,960.0,300430.0,wikiart,Romanticism,Don Quixote,train_and_test,True,10587.jpg,Gustave Dore/10587.jpg,3
+Paul Cezanne,c.1885,landscape,2536.0,2033.0,478316.0,wikiart,Post-Impressionism,The Gulf of Marseille Seen from L'Estaque,train_and_test,True,98493.jpg,Paul Cezanne/98493.jpg,11
+Martiros Saryan,1932,sketch and study,800.0,534.0,97776.0,wikiart,Expressionism,Peasants,train_and_test,True,38531.jpg,Martiros Saryan/38531.jpg,9
+Martiros Saryan,1929,genre painting,670.0,800.0,138929.0,wikiart,Expressionism,Shepherd,train_and_test,True,28666.jpg,Martiros Saryan/28666.jpg,9
+Ivan Aivazovsky,1845,landscape,1000.0,655.0,216827.0,wikiart,Romanticism,Sea view with chapel,train_and_test,True,91876.jpg,Ivan Aivazovsky/91876.jpg,5
+Zdislav Beksinski,,symbolic painting,811.0,990.0,114117.0,wikiart,Surrealism,Untitled,train_and_test,True,19126.jpg,Zdislav Beksinski/19126.jpg,14
+Paul Cezanne,1890,still life,2536.0,2085.0,698259.0,wikiart,Post-Impressionism,"Still life, bottle of rum",train_and_test,True,76176.jpg,Paul Cezanne/76176.jpg,11
+Martiros Saryan,1911,landscape,800.0,596.0,217403.0,wikiart,Fauvism,Fellah village,train_and_test,True,3147.jpg,Martiros Saryan/3147.jpg,9
+Gustave Dore,,illustration,739.0,943.0,326317.0,wikiart,Romanticism,Prayers for the Dead,train_and_test,True,71152.jpg,Gustave Dore/71152.jpg,3
+Zdislav Beksinski,,symbolic painting,477.0,600.0,67485.0,wikiart,Surrealism,Untitled,train_and_test,True,66721.jpg,Zdislav Beksinski/66721.jpg,14
+John Singer Sargent,1925,portrait,1134.0,1545.0,547199.0,wikiart,Realism,Portrait of Lady Michaelis,train_and_test,True,61409.jpg,John Singer Sargent/61409.jpg,7
+Rembrandt,1639,self-portrait,778.0,960.0,350958.0,wikiart,Baroque,Self-portrait leaning on a stone sill,train_and_test,True,14344.jpg,Rembrandt/14344.jpg,13
+Camille Pissarro,c.1872,landscape,1221.0,1024.0,305546.0,wikiart,Impressionism,"Autumn Landscape, near Pontoise",train_and_test,True,69253.jpg,Camille Pissarro/69253.jpg,1
+Giovanni Battista Piranesi,,cityscape,3911.0,2874.0,3721134.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,80565.jpg,Giovanni Battista Piranesi/80565.jpg,2
+Pierre-Auguste Renoir,1879,flower painting,855.0,1127.0,196166.0,wikipedia,Impressionism,A Bouquet of Roses,train_and_test,True,25539.jpg,Pierre-Auguste Renoir/25539.jpg,12
+Pablo Picasso,,animal painting,1088.0,827.0,527770.0,wikiart,Realism,Mule,train_and_test,True,61600.jpg,Pablo Picasso/61600.jpg,10
+Gustave Dore,,illustration,2252.0,1808.0,1196071.0,wikiart,Romanticism,"The Inferno, Canto 32",train_and_test,True,53020.jpg,Gustave Dore/53020.jpg,3
+Pierre-Auguste Renoir,1871,portrait,1280.0,987.0,1417181.0,wikiart,Impressionism,Portrait of Edmond Maitre (The Reader),train_and_test,True,30692.jpg,Pierre-Auguste Renoir/30692.jpg,12
+Camille Pissarro,1902,cityscape,1280.0,1016.0,347601.0,wikiart,Impressionism,"Square du Vert Galant, Sunny Morning",train_and_test,True,55081.jpg,Camille Pissarro/55081.jpg,1
+Ilya Repin,1873.0,genre painting,829.0,1000.0,194629.0,wikiart,Realism,A Newspaper Seller in Paris,train_and_test,True,15568.jpg,Ilya Repin/15568.jpg,4
+Camille Pissarro,1897,cityscape,1266.0,1024.0,363519.0,wikiart,Impressionism,View Across Stamford Brook Common,train_and_test,True,38188.jpg,Camille Pissarro/38188.jpg,1
+John Singer Sargent,,nude painting (nu),700.0,984.0,145570.0,wikiart,Realism,Seated Model with Drapery,train_and_test,True,20472.jpg,John Singer Sargent/20472.jpg,7
+Giovanni Battista Piranesi,,capriccio,3887.0,2781.0,3538030.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,95183.jpg,Giovanni Battista Piranesi/95183.jpg,2
+Ivan Shishkin,1878.0,landscape,705.0,1000.0,226126.0,wikiart,Realism,Birch and mountain ash,train_and_test,True,77673.jpg,Ivan Shishkin/77673.jpg,6
+Ilya Repin,1887.0,portrait,700.0,1000.0,110909.0,wikiart,Realism,Nun,train_and_test,True,49498.jpg,Ilya Repin/49498.jpg,4
+Pierre-Auguste Renoir,1915,landscape,1280.0,967.0,628751.0,wikiart,Impressionism,Landscape,train_and_test,True,61389.jpg,Pierre-Auguste Renoir/61389.jpg,12
+Ilya Repin,1888.0,portrait,631.0,1000.0,72841.0,wikiart,Realism,Portrait of composer and chemist Aleksander Porfirievich Borodin,train_and_test,True,75600.jpg,Ilya Repin/75600.jpg,4
+Albrecht Durer,1512,religious painting,862.0,1000.0,508460.0,wikiart,Northern Renaissance,"The Holy Family With St. John, The Magdalen And Nicodemus",train_and_test,True,77970.jpg,Albrecht Durer/77970.jpg,0
+Albrecht Durer,,religious painting,1829.0,3000.0,695859.0,wikiart,Northern Renaissance,St. Catherine and the executioner,train_and_test,True,42397.jpg,Albrecht Durer/42397.jpg,0
+Albrecht Durer,,portrait,1576.0,1965.0,512636.0,wikiart,Northern Renaissance,"Portrait of Henry Parker, Lord Morley ",train_and_test,True,67609.jpg,Albrecht Durer/67609.jpg,0
+Ilya Repin,1879.0,genre painting,1029.0,623.0,570714.0,wikiart,Realism,Bridge in Abramtsevo,train_and_test,True,66532.jpg,Ilya Repin/66532.jpg,4
+Gustave Dore,,illustration,922.0,1210.0,297898.0,wikiart,Romanticism,Idylls of the King,train_and_test,True,75564.jpg,Gustave Dore/75564.jpg,3
+Ivan Shishkin,1892.0,landscape,1000.0,586.0,196860.0,wikiart,Realism,Cut down oak in the Bialowiezka Forest,train_and_test,True,69985.jpg,Ivan Shishkin/69985.jpg,6
+Paul Cezanne,1870,landscape,1280.0,992.0,290014.0,wikiart,Romanticism,Landscape of Provence,train_and_test,True,58762.jpg,Paul Cezanne/58762.jpg,11
+Pierre-Auguste Renoir,1882,portrait,768.0,1278.0,245551.0,wikiart,Impressionism,Girl with Falcon,train_and_test,True,49497.jpg,Pierre-Auguste Renoir/49497.jpg,12
+Ivan Aivazovsky,,marina,714.0,1000.0,212056.0,wikiart,Romanticism,Sea ,train_and_test,True,10176.jpg,Ivan Aivazovsky/10176.jpg,5
+Rembrandt,1633,self-portrait,1035.0,1280.0,837707.0,wikiart,Baroque,Self-portrait in a cap and scarf with the face dark bust,train_and_test,True,97600.jpg,Rembrandt/97600.jpg,13
+Giovanni Battista Piranesi,,mythological painting,1500.0,1229.0,376039.0,wikiart,Neoclassicism,Genius of Mysteries,train_and_test,True,75611.jpg,Giovanni Battista Piranesi/75611.jpg,2
+Camille Pissarro,1902,cityscape,1280.0,1020.0,289773.0,wikiart,Impressionism,"The Louvre, Afternoon",train_and_test,True,32774.jpg,Camille Pissarro/32774.jpg,1
+Ivan Shishkin,,landscape,1000.0,776.0,280452.0,wikiart,Realism,Pine forest ,train_and_test,True,77392.jpg,Ivan Shishkin/77392.jpg,6
+Pierre-Auguste Renoir,1904,portrait,870.0,1128.0,225872.0,wikiart,Impressionism,Coco Holding a Orange,train_and_test,True,29570.jpg,Pierre-Auguste Renoir/29570.jpg,12
+Martiros Saryan,1914,flower painting,868.0,1000.0,247873.0,wikiart,Expressionism,Flowers of Kalaki,train_and_test,True,98704.jpg,Martiros Saryan/98704.jpg,9
+Pierre-Auguste Renoir,1879,portrait,789.0,1409.0,233480.0,wikiart,Impressionism,Marthe Berard (Girl Wearing a Blue Sash),train_and_test,True,93088.jpg,Pierre-Auguste Renoir/93088.jpg,12
+Ilya Repin,1885.0,portrait,615.0,1000.0,205380.0,wikiart,Realism,Old farmer,train_and_test,True,27259.jpg,Ilya Repin/27259.jpg,4
+Zdislav Beksinski,,symbolic painting,882.0,1075.0,170671.0,wikiart,Surrealism,Untitled,train_and_test,True,97945.jpg,Zdislav Beksinski/97945.jpg,14
+Camille Pissarro,1880,landscape,1260.0,1024.0,300794.0,wikiart,Impressionism,"Landscape, near Pontoise",train_and_test,True,37397.jpg,Camille Pissarro/37397.jpg,1
+Rembrandt,,portrait,4032.0,5008.0,1384905.0,wikiart,Baroque,Lady with a Lap Dog,train_and_test,True,40672.jpg,Rembrandt/40672.jpg,13
+Pierre-Auguste Renoir,1883,genre painting,796.0,1525.0,231881.0,wikipedia,Impressionism,Dance at Bougival,train_and_test,True,21125.jpg,Pierre-Auguste Renoir/21125.jpg,12
+Ivan Aivazovsky,1845,cityscape,1720.0,1238.0,359241.0,wikiart,Romanticism,Dusk on the Golden Horn   ,train_and_test,True,85738.jpg,Ivan Aivazovsky/85738.jpg,5
+Pablo Picasso,1938,portrait,856.0,1000.0,294799.0,wikiart,Surrealism,Untitled,train_and_test,True,80953.jpg,Pablo Picasso/80953.jpg,10
+John Singer Sargent,1912,landscape,1170.0,895.0,109780.0,wikiart,Impressionism,Granada,train_and_test,True,84388.jpg,John Singer Sargent/84388.jpg,7
+Martiros Saryan,1917,cityscape,1022.0,755.0,422039.0,wikiart,Expressionism,Old Tbilisi,train_and_test,True,5128.jpg,Martiros Saryan/5128.jpg,9
+Pablo Picasso,1904,sketch and study,962.0,1266.0,374313.0,wikiart,Post-Impressionism,Madeleine,train_and_test,True,19192.jpg,Pablo Picasso/19192.jpg,10
+Ivan Shishkin,1878.0,landscape,802.0,1000.0,206363.0,wikiart,Realism,Forest Landscape,train_and_test,True,14256.jpg,Ivan Shishkin/14256.jpg,6
+Ivan Aivazovsky,1861,landscape,1000.0,746.0,118743.0,wikiart,Romanticism,Sea at night,train_and_test,True,76662.jpg,Ivan Aivazovsky/76662.jpg,5
+Albrecht Durer,,genre painting,3000.0,1033.0,412568.0,wikiart,Northern Renaissance,The small chariot,train_and_test,True,40029.jpg,Albrecht Durer/40029.jpg,0
+Ivan Shishkin,1895.0,landscape,1000.0,653.0,132224.0,wikiart,Realism,Edge of the deciduous forest,train_and_test,True,67160.jpg,Ivan Shishkin/67160.jpg,6
+Zdislav Beksinski,,symbolic painting,848.0,1040.0,258392.0,wikiart,Surrealism,Untitled,train_and_test,True,23082.jpg,Zdislav Beksinski/23082.jpg,14
+Paul Cezanne,1880,landscape,3176.0,2521.0,818155.0,wikiart,Post-Impressionism,Houses at the L'Estaque,train_and_test,True,26275.jpg,Paul Cezanne/26275.jpg,11
+Giovanni Battista Piranesi,,still life,1500.0,1251.0,551886.0,wikiart,Neoclassicism,Jars of clay and glass found in Pompeii,train_and_test,True,28379.jpg,Giovanni Battista Piranesi/28379.jpg,2
+Ivan Aivazovsky,1852,marina,1056.0,759.0,105289.0,wikiart,Romanticism,Arrival into Sevastopol Bay,train_and_test,True,71221.jpg,Ivan Aivazovsky/71221.jpg,5
+Paul Cezanne,c.1880,self-portrait,1184.0,1568.0,148679.0,wikiart,Post-Impressionism,Self-Portrait,train_and_test,True,64640.jpg,Paul Cezanne/64640.jpg,11
+Rembrandt,1652,sketch and study,1280.0,789.0,677644.0,wikiart,Baroque,Christ disputing with the doctors,train_and_test,True,87295.jpg,Rembrandt/87295.jpg,13
+Ivan Aivazovsky,1872,marina,1103.0,862.0,61993.0,wikiart,Romanticism,On the storm,train_and_test,True,95383.jpg,Ivan Aivazovsky/95383.jpg,5
+Martiros Saryan,1922,sketch and study,800.0,586.0,87057.0,wikiart,Expressionism,Family,train_and_test,True,86974.jpg,Martiros Saryan/86974.jpg,9
+Ilya Repin,,portrait,796.0,1000.0,175721.0,wikiart,Realism,Portrait of Dante,train_and_test,True,75014.jpg,Ilya Repin/75014.jpg,4
+Giovanni Battista Piranesi,,genre painting,1500.0,1163.0,554191.0,wikiart,Neoclassicism,A family in prayer,train_and_test,True,72719.jpg,Giovanni Battista Piranesi/72719.jpg,2
+John Singer Sargent,1902,portrait,728.0,1093.0,109763.0,wikiart,Realism,William Marshall Cazalet,train_and_test,True,64437.jpg,John Singer Sargent/64437.jpg,7
+Ivan Aivazovsky,1852,landscape,1000.0,635.0,126604.0,wikiart,Romanticism,Sunrise in Feodosia,train_and_test,True,12675.jpg,Ivan Aivazovsky/12675.jpg,5
+Camille Pissarro,1884,portrait,1024.0,833.0,405929.0,wikiart,Impressionism,A Servant Seated in the Garden at Eragny,train_and_test,True,27836.jpg,Camille Pissarro/27836.jpg,1
+Pablo Picasso,1901,portrait,793.0,1088.0,560144.0,wikiart,Post-Impressionism,Harlequin leaning,train_and_test,True,55649.jpg,Pablo Picasso/55649.jpg,10
+Camille Pissarro,1903,cityscape,1278.0,1024.0,396667.0,wikiart,Impressionism,"The Malaquais Quay in the Morning, Sunny Weather",train_and_test,True,19205.jpg,Camille Pissarro/19205.jpg,1
+Albrecht Durer,,design,2024.0,2986.0,907849.0,wikiart,Northern Renaissance,Design for All Saints picture,train_and_test,True,19728.jpg,Albrecht Durer/19728.jpg,0
+Pablo Picasso,1936,mythological painting,1088.0,831.0,591474.0,wikiart,Surrealism,"Minotaur is wounded, horse and personages",train_and_test,True,37529.jpg,Pablo Picasso/37529.jpg,10
+Ivan Shishkin,1870.0,landscape,669.0,1000.0,301324.0,wikiart,Realism,Forest Stream,train_and_test,True,45073.jpg,Ivan Shishkin/45073.jpg,6
+Marc Chagall,1913,nude painting (nu),563.0,800.0,92005.0,wikiart,Cubism,Nude,train_and_test,True,23762.jpg,Marc Chagall/23762.jpg,8
+Ivan Aivazovsky,c.1880,genre painting,1000.0,634.0,125564.0,wikiart,Romanticism,Chumaks in Little Russia,train_and_test,True,19966.jpg,Ivan Aivazovsky/19966.jpg,5
+Gustave Dore,,religious painting,1024.0,906.0,529036.0,wikiart,Romanticism,The Egyptians Drown in the Sea,train_and_test,True,36523.jpg,Gustave Dore/36523.jpg,3
+Albrecht Durer,,genre painting,1216.0,1563.0,381730.0,wikiart,Northern Renaissance,Knight and trooper ,train_and_test,True,12511.jpg,Albrecht Durer/12511.jpg,0
+Pierre-Auguste Renoir,1888,cityscape,1095.0,1024.0,286950.0,wikiart,Impressionism,The Port of Martigues,train_and_test,True,79265.jpg,Pierre-Auguste Renoir/79265.jpg,12
+Ivan Aivazovsky,1862,landscape,1000.0,731.0,106288.0,wikiart,Romanticism,Lunar night in the Crimea,train_and_test,True,57141.jpg,Ivan Aivazovsky/57141.jpg,5
+Ivan Shishkin,1894.0,landscape,690.0,1000.0,223655.0,wikiart,Realism,Autumn,train_and_test,True,44364.jpg,Ivan Shishkin/44364.jpg,6
+Martiros Saryan,1933,literary painting,764.0,1095.0,409087.0,wikiart,Symbolism,Badikan and Khan Bohu,train_and_test,True,92728.jpg,Martiros Saryan/92728.jpg,9
+John Singer Sargent,c.1925,sketch and study,888.0,1259.0,167842.0,wikiart,Impressionism,Woman with Collie,train_and_test,True,17457.jpg,John Singer Sargent/17457.jpg,7
+Pablo Picasso,1905,genre painting,1998.0,2495.0,1054971.0,wikiart,Post-Impressionism,A boy with pipe,train_and_test,True,88247.jpg,Pablo Picasso/88247.jpg,10
+Ilya Repin,,genre painting,800.0,1000.0,230781.0,wikiart,Realism,African Motiff,train_and_test,True,89813.jpg,Ilya Repin/89813.jpg,4
+Pablo Picasso,1942,portrait,881.0,1088.0,526006.0,wikiart,Surrealism,Bust of a woman,train_and_test,True,96633.jpg,Pablo Picasso/96633.jpg,10
+Rembrandt,1655,sketch and study,739.0,758.0,136406.0,wikiart,Baroque,The Agony in the Garden,train_and_test,True,97424.jpg,Rembrandt/97424.jpg,13
+Gustave Dore,,religious painting,1024.0,1411.0,769710.0,wikiart,Romanticism,"The Death of Korah, Dathan, and Abiram",train_and_test,True,48181.jpg,Gustave Dore/48181.jpg,3
+Camille Pissarro,1895,portrait,1040.0,1256.0,681973.0,wikiart,Impressionism,Young woman mending her stockings,train_and_test,True,78909.jpg,Camille Pissarro/78909.jpg,1
+Pierre-Auguste Renoir,1877,portrait,1280.0,967.0,229484.0,wikiart,Impressionism,Young Woman in a Straw Hat,train_and_test,True,19185.jpg,Pierre-Auguste Renoir/19185.jpg,12
+Gustave Dore,,illustration,759.0,970.0,264461.0,wikiart,Romanticism,Don Quixote,train_and_test,True,90857.jpg,Gustave Dore/90857.jpg,3
+Zdislav Beksinski,,symbolic painting,800.0,592.0,50405.0,wikiart,Surrealism,Untitled,train_and_test,True,7193.jpg,Zdislav Beksinski/7193.jpg,14
+Gustave Dore,,illustration,742.0,950.0,296164.0,wikiart,Romanticism,Don Quixote,train_and_test,True,12492.jpg,Gustave Dore/12492.jpg,3
+Zdislav Beksinski,,symbolic painting,600.0,485.0,80712.0,wikiart,Surrealism,Untitled,train_and_test,True,59969.jpg,Zdislav Beksinski/59969.jpg,14
+Albrecht Durer,,religious painting,1576.0,2203.0,598123.0,wikiart,Northern Renaissance,Reading Maria,train_and_test,True,93424.jpg,Albrecht Durer/93424.jpg,0
+Marc Chagall,c.1923,illustration,1024.0,768.0,248559.0,wikiart,Naïve Art (Primitivism),Pliushkin's village,train_and_test,True,19378.jpg,Marc Chagall/19378.jpg,8
+Marc Chagall,1915,genre painting,670.0,768.0,172818.0,wikiart,Expressionism,Marching,train_and_test,True,29581.jpg,Marc Chagall/29581.jpg,8
+Camille Pissarro,1897,cityscape,1949.0,1515.0,536759.0,wikiart,Impressionism,"Boulevard des Italiens Morning, Sunlight",train_and_test,True,383.jpg,Camille Pissarro/383.jpg,1
+John Singer Sargent,1903,portrait,666.0,1076.0,88998.0,wikiart,Realism,Mrs. William Crowninshield Endicott Jr.,train_and_test,True,24748.jpg,John Singer Sargent/24748.jpg,7
+Albrecht Durer,,sketch and study,2536.0,2148.0,580378.0,wikiart,Northern Renaissance,Robe study,train_and_test,True,90943.jpg,Albrecht Durer/90943.jpg,0
+Ilya Repin,,sketch and study,608.0,1000.0,129493.0,wikiart,Realism,A Rider,train_and_test,True,77611.jpg,Ilya Repin/77611.jpg,4
+Camille Pissarro,1874,genre painting,900.0,1173.0,326171.0,wikiart,Impressionism,"Peasant Pushing a Wheelbarrow, Maison Rondest, Pontoise",train_and_test,True,54942.jpg,Camille Pissarro/54942.jpg,1
+Pierre-Auguste Renoir,1889,portrait,876.0,1058.0,190839.0,wikiart,Impressionism,Young Girl with Daisies,train_and_test,True,99063.jpg,Pierre-Auguste Renoir/99063.jpg,12
+Martiros Saryan,1925,sketch and study,800.0,585.0,84510.0,wikiart,Expressionism,Partridge,train_and_test,True,26353.jpg,Martiros Saryan/26353.jpg,9
+Ilya Repin,1866.0,portrait,701.0,1000.0,160509.0,wikiart,Realism,D.V. Karakozov,train_and_test,True,95264.jpg,Ilya Repin/95264.jpg,4
+Rembrandt,1635,portrait,1222.0,1600.0,175892.0,wikiart,Baroque,Portrait of a Man in Oriental Garment,train_and_test,True,54590.jpg,Rembrandt/54590.jpg,13
+Ivan Aivazovsky,1899,marina,705.0,1019.0,56792.0,wikiart,Romanticism,On the storm,train_and_test,True,80245.jpg,Ivan Aivazovsky/80245.jpg,5
+Pablo Picasso,1933,genre painting,791.0,1088.0,423023.0,wikiart,Neoclassicism,Two dressed models,train_and_test,True,38477.jpg,Pablo Picasso/38477.jpg,10
+John Singer Sargent,c.1885,landscape,1146.0,863.0,220234.0,wikiart,Impressionism,Home Fields,train_and_test,True,101540.jpg,John Singer Sargent/101540.jpg,7
+Camille Pissarro,1897,cityscape,1233.0,1024.0,327311.0,wikiart,Impressionism,"Boulevard Montmartre Afternoon, in the Rain",train_and_test,True,74705.jpg,Camille Pissarro/74705.jpg,1
+Rembrandt,c.1655,self-portrait,600.0,917.0,758505.0,wikiart,Baroque,Self-portrait in studio attire,train_and_test,True,21030.jpg,Rembrandt/21030.jpg,13
+Marc Chagall,1964,religious painting,758.0,573.0,132246.0,wikiart,Naïve Art (Primitivism),Crucifixion,train_and_test,True,39051.jpg,Marc Chagall/39051.jpg,8
+John Singer Sargent,1887,portrait,868.0,1201.0,264608.0,wikiart,Realism,Portrait of Caspar Goodrich,train_and_test,True,8558.jpg,John Singer Sargent/8558.jpg,7
+Ivan Shishkin,1884.0,landscape,1000.0,765.0,252641.0,wikiart,Realism,Forest in winter,train_and_test,True,40518.jpg,Ivan Shishkin/40518.jpg,6
+Paul Cezanne,1871,landscape,1260.0,1024.0,265408.0,wikiart,Romanticism,Road,train_and_test,True,23673.jpg,Paul Cezanne/23673.jpg,11
+Paul Cezanne,1904,landscape,2536.0,3305.0,932371.0,wikiart,Cubism,Forest near the rocky caves above the Chateau Noir,train_and_test,True,67243.jpg,Paul Cezanne/67243.jpg,11
+Zdislav Beksinski,,symbolic painting,1020.0,954.0,226655.0,wikiart,Surrealism,Untitled,train_and_test,True,93329.jpg,Zdislav Beksinski/93329.jpg,14
+Ivan Shishkin,1892.0,landscape,729.0,1000.0,224859.0,wikiart,Realism,Forest,train_and_test,True,66193.jpg,Ivan Shishkin/66193.jpg,6
+Ivan Aivazovsky,1841,marina,1059.0,728.0,65897.0,wikiart,Romanticism,The Bay of Naples,train_and_test,True,4867.jpg,Ivan Aivazovsky/4867.jpg,5
+Ilya Repin,1899.0,portrait,759.0,1000.0,252245.0,wikiart,Realism,Portrait of Maxim Gorky,train_and_test,True,1276.jpg,Ilya Repin/1276.jpg,4
+Pablo Picasso,1901,portrait,1315.0,2308.0,567944.0,wikiart,Post-Impressionism,Nana,train_and_test,True,15077.jpg,Pablo Picasso/15077.jpg,10
+Pierre-Auguste Renoir,1890,genre painting,1239.0,1024.0,210825.0,wikiart,Impressionism,Girl Streched out on the Grass,train_and_test,True,6860.jpg,Pierre-Auguste Renoir/6860.jpg,12
+Giovanni Battista Piranesi,,religious painting,1156.0,1500.0,446769.0,wikiart,Neoclassicism,Rest on the Flight into Egypt,train_and_test,True,27306.jpg,Giovanni Battista Piranesi/27306.jpg,2
+Pablo Picasso,1917,design,976.0,1280.0,802416.0,wikiart,Art Nouveau (Modern),"Costume design for ballet ""Tricorne""",train_and_test,True,52128.jpg,Pablo Picasso/52128.jpg,10
+Albrecht Durer,1516,portrait,801.0,1042.0,98708.0,wikipedia,Northern Renaissance,Portrait of a Cleric,train_and_test,True,68172.jpg,Albrecht Durer/68172.jpg,0
+Rembrandt,,portrait,692.0,960.0,245023.0,wikiart,Baroque,Boys Cup,train_and_test,True,80583.jpg,Rembrandt/80583.jpg,13
+Giovanni Battista Piranesi,,interior,1528.0,1168.0,455821.0,wikiart,Neoclassicism,The Prisons (plate VI),train_and_test,True,75226.jpg,Giovanni Battista Piranesi/75226.jpg,2
+Ivan Aivazovsky,1876,landscape,1625.0,1067.0,321847.0,wikiart,Romanticism,Loading Provisions off the Crimean Coast,train_and_test,True,23402.jpg,Ivan Aivazovsky/23402.jpg,5
+Albrecht Durer,,religious painting,3000.0,2221.0,1161729.0,wikiart,Northern Renaissance,The Cross of Christ,train_and_test,True,79317.jpg,Albrecht Durer/79317.jpg,0
+Rembrandt,,self-portrait,1037.0,1280.0,847073.0,wikiart,Baroque,Self-portrait,train_and_test,True,68440.jpg,Rembrandt/68440.jpg,13
+Paul Cezanne,1876,landscape,3176.0,2401.0,1055039.0,wikiart,Impressionism,Road,train_and_test,True,100283.jpg,Paul Cezanne/100283.jpg,11
+Paul Cezanne,1873,landscape,2536.0,2011.0,612202.0,wikiart,Impressionism,View of Auvers,train_and_test,True,61041.jpg,Paul Cezanne/61041.jpg,11
+Martiros Saryan,1915,still life,1000.0,438.0,121344.0,wikiart,Naïve Art (Primitivism),Big eastern still life,train_and_test,True,63592.jpg,Martiros Saryan/63592.jpg,9
+Giovanni Battista Piranesi,1756.0,design,1500.0,1366.0,657924.0,wikiart,Neoclassicism,"The Roman antiquities, t. 2, Plate XVIII. Inscriptions and fragments of the burial chamber above.",train_and_test,True,12669.jpg,Giovanni Battista Piranesi/12669.jpg,2
+Marc Chagall,1983,genre painting,1454.0,1896.0,351720.0,wikiart,Surrealism,Couple on a Red Background,train_and_test,True,7415.jpg,Marc Chagall/7415.jpg,8
+Marc Chagall,c.1923,illustration,569.0,768.0,142327.0,wikiart,Naïve Art (Primitivism),Banquet at the Police Chief's House ,train_and_test,True,75251.jpg,Marc Chagall/75251.jpg,8
+Ivan Shishkin,1875.0,landscape,737.0,1000.0,213810.0,wikiart,Realism,Evening in a pine forest,train_and_test,True,39230.jpg,Ivan Shishkin/39230.jpg,6
+Albrecht Durer,,sketch and study,2024.0,2908.0,447558.0,wikiart,Northern Renaissance,Male Nude(Apollo Poynter),train_and_test,True,43640.jpg,Albrecht Durer/43640.jpg,0
+Marc Chagall,1963,symbolic painting,1020.0,1690.0,365366.0,wikiart,Naïve Art (Primitivism),Music,train_and_test,True,68025.jpg,Marc Chagall/68025.jpg,8
+Pablo Picasso,1946,still life,1088.0,907.0,672057.0,wikiart,Surrealism,"Crane, book and oil lamp",train_and_test,True,95266.jpg,Pablo Picasso/95266.jpg,10
+John Singer Sargent,c.1895,portrait,941.0,1109.0,44122.0,wikiart,Realism,Expectancy,train_and_test,True,4723.jpg,John Singer Sargent/4723.jpg,7
+Ilya Repin,1891.0,portrait,788.0,1000.0,261631.0,wikiart,Realism,Leo Tolstoy in the forest,train_and_test,True,89.jpg,Ilya Repin/89.jpg,4
+Zdislav Beksinski,c.2000,symbolic painting,3200.0,2399.0,5660398.0,wikiart,Surrealism,Untitled,train_and_test,True,22879.jpg,Zdislav Beksinski/22879.jpg,14
+Pierre-Auguste Renoir,1881,portrait,855.0,1112.0,57755.0,wikiart,Impressionism,Algerian Woman,train_and_test,True,92584.jpg,Pierre-Auguste Renoir/92584.jpg,12
+Zdislav Beksinski,,symbolic painting,528.0,550.0,43854.0,wikiart,Surrealism,Untitled,train_and_test,True,53955.jpg,Zdislav Beksinski/53955.jpg,14
+Rembrandt,1632,genre painting,1172.0,1280.0,745604.0,wikiart,Baroque,The rat poison peddler (The rat catcher),train_and_test,True,63718.jpg,Rembrandt/63718.jpg,13
+Ivan Shishkin,,sketch and study,1000.0,758.0,193958.0,wikiart,Realism,Forest cutting,train_and_test,True,65009.jpg,Ivan Shishkin/65009.jpg,6
+Ilya Repin,1881.0,portrait,2141.0,2720.0,1784291.0,wikiart,Realism,"Portrait of the pianist, conductor and composer Anton Grigorievich Rubinstein",train_and_test,True,52132.jpg,Ilya Repin/52132.jpg,4
+Pierre-Auguste Renoir,1876,landscape,1115.0,921.0,246841.0,wikiart,Impressionism,The Banks of the Seine at Champrosay,train_and_test,True,35908.jpg,Pierre-Auguste Renoir/35908.jpg,12
+Rembrandt,1630,sketch and study,877.0,1280.0,812099.0,wikiart,Baroque,Simeon`s hymn of praise,train_and_test,True,87555.jpg,Rembrandt/87555.jpg,13
+Camille Pissarro,,cityscape,1225.0,1024.0,310494.0,wikiart,Impressionism,The Pont Royal and the Pavillion de Flore,train_and_test,True,101634.jpg,Camille Pissarro/101634.jpg,1
+Pierre-Auguste Renoir,,flower painting,877.0,1126.0,350445.0,wikipedia,Impressionism,Bouquet of Roses,train_and_test,True,93633.jpg,Pierre-Auguste Renoir/93633.jpg,12
+Ivan Shishkin,1886.0,self-portrait,679.0,1000.0,257088.0,wikiart,Realism,Self-portrait,train_and_test,True,86688.jpg,Ivan Shishkin/86688.jpg,6
+Albrecht Durer,,flower painting,1024.0,1249.0,404656.0,wikiart,Northern Renaissance,Lillium Martagon (Details),train_and_test,True,43598.jpg,Albrecht Durer/43598.jpg,0
+Marc Chagall,c.1963,sketch and study,758.0,522.0,96360.0,wikiart,Surrealism,Noah and the Rainbow,train_and_test,True,62567.jpg,Marc Chagall/62567.jpg,8
+Paul Cezanne,1892,portrait,810.0,1030.0,173468.0,wikiart,Post-Impressionism,Smoker,train_and_test,True,46717.jpg,Paul Cezanne/46717.jpg,11
+Ilya Repin,1912.0,portrait,754.0,1000.0,179752.0,wikiart,Realism,Portrait of writer Leonid Nikolayevich Andreyev on a yacht,train_and_test,True,23146.jpg,Ilya Repin/23146.jpg,4
+John Singer Sargent,1907,landscape,1183.0,820.0,245508.0,wikiart,Impressionism,Villa Torlonia Fountain,train_and_test,True,70360.jpg,John Singer Sargent/70360.jpg,7
+Ilya Repin,1878.0,sketch and study,1000.0,874.0,123004.0,wikiart,Realism,Reading Aloud,train_and_test,True,68462.jpg,Ilya Repin/68462.jpg,4
+Martiros Saryan,1968,sketch and study,767.0,589.0,242177.0,wikiart,Realism,Armenian Landscape,train_and_test,True,65005.jpg,Martiros Saryan/65005.jpg,9
+Pablo Picasso,1905,genre painting,1079.0,1088.0,771861.0,wikiart,Post-Impressionism,"At ""Lapin Agile"" (Harlequin with Glass)",train_and_test,True,80727.jpg,Pablo Picasso/80727.jpg,10
+Pierre-Auguste Renoir,1869,portrait,866.0,1082.0,176467.0,wikiart,Realism,Woman in a Lace Blouse,train_and_test,True,80185.jpg,Pierre-Auguste Renoir/80185.jpg,12
+Marc Chagall,1960,self-portrait,608.0,768.0,546577.0,wikiart,Naïve Art (Primitivism),Self-Portrait,train_and_test,True,19197.jpg,Marc Chagall/19197.jpg,8
+John Singer Sargent,,cityscape,1104.0,702.0,164535.0,wikiart,Impressionism,"The Entrance to the Grand Canal, Venice",train_and_test,True,50313.jpg,John Singer Sargent/50313.jpg,7
+Gustave Dore,,illustration,974.0,1210.0,255570.0,wikiart,Romanticism,Paradise Lost,train_and_test,True,70180.jpg,Gustave Dore/70180.jpg,3
+Giovanni Battista Piranesi,,sketch and study,1500.0,1188.0,389727.0,wikiart,Neoclassicism,Amphitrite,train_and_test,True,5706.jpg,Giovanni Battista Piranesi/5706.jpg,2
+Martiros Saryan,1910,landscape,800.0,790.0,183647.0,wikiart,Expressionism,Wisteria,train_and_test,True,16608.jpg,Martiros Saryan/16608.jpg,9
+Giovanni Battista Piranesi,,history painting,1500.0,1160.0,489087.0,wikiart,Neoclassicism,Brennus and Camillus,train_and_test,True,42016.jpg,Giovanni Battista Piranesi/42016.jpg,2
+Paul Cezanne,c.1890,landscape,1280.0,880.0,322334.0,wikiart,Post-Impressionism,Reflections in the Water,train_and_test,True,37377.jpg,Paul Cezanne/37377.jpg,11
+Marc Chagall,1908,interior,1024.0,768.0,220452.0,wikiart,Expressionism,Small Drawing Room,train_and_test,True,40070.jpg,Marc Chagall/40070.jpg,8
+Ivan Aivazovsky,1876,marina,1103.0,875.0,83597.0,wikiart,Romanticism,The Shipwreck,train_and_test,True,52233.jpg,Ivan Aivazovsky/52233.jpg,5
+Pierre-Auguste Renoir,1909,portrait,765.0,1887.0,294814.0,wikiart,Impressionism,Dancer with Tambourne (Gabrielle Renard),train_and_test,True,71768.jpg,Pierre-Auguste Renoir/71768.jpg,12
+Gustave Dore,,illustration,800.0,996.0,274365.0,wikiart,Romanticism,Puss in Boots,train_and_test,True,6576.jpg,Gustave Dore/6576.jpg,3
+Albrecht Durer,,genre painting,1934.0,3000.0,862513.0,wikiart,Northern Renaissance,Youth with executioner,train_and_test,True,32849.jpg,Albrecht Durer/32849.jpg,0
+Camille Pissarro,1874,landscape,3176.0,2335.0,811302.0,wikiart,Impressionism,The Hermitage at Pontoise,train_and_test,True,25299.jpg,Camille Pissarro/25299.jpg,1
+Giovanni Battista Piranesi,,cityscape,1500.0,1131.0,519893.0,wikiart,Neoclassicism,Bridge with magnificent balconies and arches erected by a Roman Emperor,train_and_test,True,89891.jpg,Giovanni Battista Piranesi/89891.jpg,2
+Ivan Shishkin,1879.0,landscape,645.0,1000.0,157507.0,wikiart,Realism,Crimean view. Near Yalta,train_and_test,True,6200.jpg,Ivan Shishkin/6200.jpg,6
+Paul Cezanne,1881,landscape,2940.0,2351.0,4327063.0,wikiart,Post-Impressionism,Moulin de la Couleuvre at Pontoise,train_and_test,True,76335.jpg,Paul Cezanne/76335.jpg,11
+Giovanni Battista Piranesi,,cityscape,3893.0,2570.0,3429838.0,wikiart,Neoclassicism,Vedute di Roma,train_and_test,True,12970.jpg,Giovanni Battista Piranesi/12970.jpg,2
