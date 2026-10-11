@@ -1,0 +1,22 @@
+# Datasets / images (too big for GitHub)
+*.zip
+*.jpg
+*.jpeg
+*.png
+images/
+painters/
+
+# Model weights (large) -- share via Drive instead
+*.h5
+*.keras
+*.weights.h5
+
+# Secrets
+kaggle.json
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
