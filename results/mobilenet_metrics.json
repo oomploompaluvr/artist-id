@@ -1,0 +1,7 @@
+{
+    "model": "MobileNetV2 Transfer Learning",
+    "test_accuracy": 0.7431506849315068,
+    "test_macro_f1": 0.7442035781404223,
+    "test_samples": 584,
+    "number_of_classes": 15
+}
