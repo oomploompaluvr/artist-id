@@ -1,0 +1,4 @@
+Model,Test Accuracy (%),Test Macro F1
+Baseline CNN,49.32,0.4762
+SVM (Person 1),65.41,0.6499
+MobileNetV2 (Person 2),74.32,0.7442
