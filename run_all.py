@@ -10,10 +10,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 STEPS = {
     "1": "scripts/01_prepare_data.py",           # team split + Drive zips -> 256x256 images (~2 min)
-    "2": "scripts/02_extract_features.py",       # ~8 min on 12 threads
+    "2": "scripts/02_extract_features.py",       # ~6 min on 12 threads
     "3": "scripts/03_visualize_features.py",     # feature figures
     "4": "scripts/04_feature_combination_search.py",  # 63 combos x (SVM + LR), ~25 min
-    "5": "scripts/05_train_final_models.py",     # full 11x11 grid on top-3 combos + test eval, ~1 h 40 min
+    "5": "scripts/05_train_final_models.py",     # full 11x11 grid on top-3 combos + test eval, ~50 min
     "6": "scripts/06_plot_results.py",           # evaluation figures
     "7": "scripts/07_build_writeup.py",          # Section 3 + 4.1 write-up (.docx/.md)
 }

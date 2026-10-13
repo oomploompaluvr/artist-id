@@ -31,7 +31,7 @@ LABEL_MAP_JSON = DATA_DIR / "label_map.json"
 # Google-Drive zips with the original images (selected_images/<Artist Name>/<file>.jpg).
 # Put them in data/zips/ (or point ARTIST_ID_ZIP_DIR at the folder that holds them).
 ZIP_DIR = Path(os.environ.get("ARTIST_ID_ZIP_DIR", DATA_DIR / "zips"))
-IMAGE_ZIPS = sorted(ZIP_DIR.glob("selected_images-*.zip")) or sorted(Path(r"D:\Downloads").glob("selected_images-*.zip"))
+IMAGE_ZIPS = sorted(ZIP_DIR.glob("selected_images-*.zip"))
 
 
 def _load_artists():

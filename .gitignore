@@ -2,8 +2,10 @@
 # images come from the team Drive (put the zips in data/zips/), features are rebuilt by step 2
 data/zips/
 data/images/
-data/features/
+data/features/*
+!data/features/sift_vocab.npy
 data/splits.csv
+results/models/*.keras
 node_modules/
 __pycache__/
 *.pyc
