@@ -121,7 +121,7 @@ def main():
         if not model_path.exists():
             print(f"Skipping {info['name']}: {model_path} not found")
             continue
-        model = keras.models.load_model(model_path)
+        model = keras.models.load_model(model_path, compile=False)  # inference only; avoids re-compiling the training setup
         y_pred = predict(model, paths).argmax(axis=1)
 
         acc = float((y_pred == y_true).mean())

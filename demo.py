@@ -63,7 +63,8 @@ class KerasModel:
         import keras
 
         self.name = name
-        self.model = keras.models.load_model(path)
+        self.model = keras.models.load_model(path, compile=False)  # inference only
+        self.model.predict(np.zeros((1, *DEEP_SIZE, 3), np.float32), verbose=0)  # warm-up: first call is slow
 
     def predict(self, rgb):
         x = cv2.resize(rgb, DEEP_SIZE, interpolation=cv2.INTER_LINEAR).astype(np.float32) / 255.0

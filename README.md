@@ -51,10 +51,10 @@ python demo.py --image path.jpg   # command line
 * **What the SVM sees:** SIFT keypoints, HOG gradients and the colour histogram of the painting.
 * **Live benchmark:** runs every model on N random test paintings and reports accuracy and time per painting.
 
-The SVM works out of the box (`results/models/svm.joblib`, `data/features/sift_vocab.npy`). The CNN and MobileNetV2
-are added automatically when `best_cnn.keras` / `best_mobilenet.keras` are in `results/models/` (or in the folder
-given by `DEEP_MODEL_DIR`). The demo's random-painting and benchmark buttons need step 1 of the classical
-pipeline (`data/images/`).
+All three trained models are in `results/models/` (`svm.joblib`, `best_cnn.keras`, `best_mobilenet.keras`), so the
+demo works straight after cloning; the deep models run on Keras with either TensorFlow or PyTorch. The SVM shows
+its one-vs-rest decision scores (positive = confident) because an SVM does not output probabilities. The demo's
+random-painting and benchmark buttons need step 1 of the classical pipeline (`data/images/`).
 
 ## Part 1: Classical ML & Feature Engineering
 
